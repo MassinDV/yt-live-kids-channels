@@ -1,4 +1,4 @@
-name: Get 獲取YouTube直播m3u8
+name: Get ouTube-m3u8
 on:
   schedule:
     - cron: '0 */3 * * *' #設定每3小時自動獲取
@@ -23,16 +23,16 @@ jobs:
         sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
         sudo chmod a+rx /usr/local/bin/yt-dlp
 
-#新聞頻道
+Test
 
-    - name: Get 三立新聞.m3u8
+    - name: Get Test.m3u8
       run: |
-        touch ./三立新聞.m3u8
-        sudo cat >./三立新聞.m3u8 <<EOL
+        touch ./Test.m3u8
+        sudo cat >./Test.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/c/%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E/live)
+        $(yt-dlp --print urls https://www.youtube.com/@KidsLandOfficial/streams/live)
         EOL
         
     - name: Get TVBS新聞.m3u8
