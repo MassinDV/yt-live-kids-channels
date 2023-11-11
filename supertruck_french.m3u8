@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699762516/ei/9PxPZbDWJZGwiwS_yLWQBg/ip/40.84.178.18/id/xRDcRzj1E_A.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-q4fzen7s.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fwBoslVk-ZyETeMr2Mms5iSjEOc/vprv/1/playlist_type/DVR/mh/hX/mm/44/mn/sn-q4fzen7s/ms/lva/mv/u/mvi/5/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699740471/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgO6I1-3x6TnN4e6cmR_qJ0SgvIw-gLMZUNTqTPIu0MWgCIGfrzyoMmMXpOia2DO6MGXni7wRIlagOITX4xq0MgM5R/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgac8pIk9OdgGZ9qYVknrPvDmbfLN6DLnOcDl_Rui9q-QCIQDRTrEfMV2nwg5qLBN2WjKYfKHvR_4czRnYiyfcJ4MD6g%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/supertruck_french.m3u8
