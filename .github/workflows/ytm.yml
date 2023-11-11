@@ -35,6 +35,7 @@ jobs:
         $(yt-dlp --print urls https://www.youtube.com/channel/UCYOlpfBbG9JuGaJ0zQ7jJ5g/live)
         https://raw.githubusercontent.com/MassinDV/videos/main/spongeboblofi.m3u8
         EOL
+        
     - name: Get disneyxd.m3u8
       run: |
         touch ./disneyxd.m3u8
