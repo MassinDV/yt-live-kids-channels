@@ -34,7 +34,36 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/c/%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E/live)
         EOL
-
+    - name: Get spongeboblofi.m3u8
+      run: |
+        touch ./spongeboblofi.m3u8
+        sudo cat >.kids/spongeboblofi.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCYOlpfBbG9JuGaJ0zQ7jJ5g/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/spongeboblofi.m3u8
+        EOL
+    - name: Get disneyxd.m3u8
+      run: |
+        touch ./disneyxd.m3u8
+        sudo cat >.kids/disneyxd.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/disneyxd.m3u8
+        EOL
+    - name: Get nhstudioz.m3u8
+      run: |
+        touch ./nhstudioz.m3u8
+        sudo cat >.kids/nhstudioz.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCxtwjNPrymSvS4UD_6HgcxQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/nhstudioz.m3u8
+        EOL
     - name: git add
       run: |
         git add -A
