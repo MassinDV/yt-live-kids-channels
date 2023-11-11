@@ -33,6 +33,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/@KidsLandOfficial/streams/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/offlintv.m3u8
         EOL
         
     - name: Get TVBS新聞.m3u8
