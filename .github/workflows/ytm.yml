@@ -28,7 +28,7 @@ jobs:
     - name: Get spongeboblofi.m3u8
       run: |
         touch ./spongeboblofi.m3u8
-        sudo cat >kids/spongeboblofi.m3u8 <<EOL
+        sudo cat >./kids/spongeboblofi.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
@@ -38,7 +38,7 @@ jobs:
     - name: Get disneyxd.m3u8
       run: |
         touch ./disneyxd.m3u8
-        sudo cat >./disneyxd.m3u8 <<EOL
+        sudo cat >./kids/disneyxd.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
@@ -48,7 +48,7 @@ jobs:
     - name: Get nhstudioz.m3u8
       run: |
         touch ./nhstudioz.m3u8
-        sudo cat >./nhstudioz.m3u8 <<EOL
+        sudo cat >./kids/nhstudioz.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
