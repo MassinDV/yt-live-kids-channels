@@ -1,7 +1,7 @@
 name: Get Youtube HLS
 on:
   schedule:
-    - cron: '0 */3 * * *' #設定每3小時自動獲取
+    - cron: '0 */1 * * *' #設定每3小時自動獲取
 
   pull_request:
     branches:
