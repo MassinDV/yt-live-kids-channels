@@ -25,6 +25,46 @@ jobs:
 
 #channel-01
 
+    - name: Get Baby Zoo | Kids Songs.m3u8
+      run: |
+        touch ./babyzookidssongs.m3u8
+        sudo cat >./babyzookidssongs.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC73OSCbHaqKlhHLBpQqHPrQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyzookidssongs.m3u8
+        EOL
+    - name: Get Ms Rachel - Toddler Learning Videos
+      run: |
+        touch ./msrachel.m3u8
+        sudo cat >./msrachel.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCG2CL6EUjG8TVT1Tpl9nJdg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/msrachel.m3u8
+        EOL
+    - name: Get Finny The Shark
+      run: |
+        touch ./finnytheshark.m3u8
+        sudo cat >./finnytheshark.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC6SyiVWGViNSKF5-UOAuQ5w/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/finnytheshark.m3u8
+        EOL
+    - name: Get BabyBus - Kids Songs and Cartoons
+      run: |
+        touch ./babybus.m3u8
+        sudo cat >./babybus.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babybus.m3u8
+        EOL
     - name: Get spongeboblofi.m3u8
       run: |
         touch ./spongeboblofi.m3u8
@@ -32,7 +72,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/channel/UCYOlpfBbG9JuGaJ0zQ7jJ5g/live)
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCG2CL6EUjG8TVT1Tpl9nJdg/live)
         https://raw.githubusercontent.com/MassinDV/videos/main/kids/spongeboblofi.m3u8
         EOL
     - name: Get disneyxd.m3u8.m3u8
@@ -45,15 +85,15 @@ jobs:
         $(yt-dlp --print urls https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ/live)
         https://raw.githubusercontent.com/MassinDV/videos/main/kids/disney-xd.m3u8
         EOL
-    - name: Get nhstudioz.m3u8
+    - name: Get ShauntheSheepOfficial.m3u8
       run: |
-        touch ./nhstudioz.m3u8
-        sudo cat >./nhstudioz.m3u8 <<EOL
+        touch ./ShauntheSheepOfficial.m3u8
+        sudo cat >./ShauntheSheepOfficial.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/channel/UCxtwjNPrymSvS4UD_6HgcxQ/live)
-        https://raw.githubusercontent.com/MassinDV/videos/main/kids/nhstudioz.m3u8
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCS7H8U-n5mINVJjJsaRtGHg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/shaunthesheepofficial.m3u8
         EOL
     - name: Get beetoonss.m3u8
       run: |
