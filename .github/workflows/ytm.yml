@@ -43,7 +43,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ/live)
-        https://raw.githubusercontent.com/MassinDV/videos/main/kids/disneyxd.m3u8
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/disney-xd.m3u8
         EOL
     - name: Get nhstudioz.m3u8
       run: |
@@ -73,7 +73,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/channel/UCS0B3UT8eyVA_Cbgh5hXzpg/live)
-        https://raw.githubusercontent.com/MassinDV/videos/main/kids/okolele-arabic.m3u8
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/okoLele.m3u8
         EOL
     - name: Get barbieFrancais.m3u8
       run: |
@@ -83,7 +83,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA/live)
-        https://raw.githubusercontent.com/MassinDV/videos/main/kids/barbieFrancais.m3u8
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/barbiefrancais.m3u8
         EOL
     - name: Get barbiedeutsch.m3u8
       run: |
@@ -167,7 +167,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/channel/UC8TsX50arK9Ap1oNIBQmQgw/live)
-        https://raw.githubusercontent.com/MassinDV/videos/main/kids/simonsuperHase.m3u8
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/simonsuperhase.m3u8
         EOL
 
     - name: Get simonsuperConejoes.m3u8
@@ -178,7 +178,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/channel/UCaF8Cwux8-_81MVDx87Eo5Q/live)
-        https://raw.githubusercontent.com/MassinDV/videos/main/kids/simonsuperConejoes.m3u8
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/simonsuperconejoes.m3u8
         EOL
 
     - name: Get simonsuperconejo.m3u8
