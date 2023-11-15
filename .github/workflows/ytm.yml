@@ -25,7 +25,97 @@ jobs:
 
 #channel-01
 
-    - name: Get Baby Zoo | Kids Songs.m3u8
+    - name: Get Hogi! Pinkfong - Learn & Play.m3u8
+      run: |
+        touch ./hogi.m3u8
+        sudo cat >./hogi.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCOVY28BaODA4pvyz_9jM5OA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/hogi.m3u8
+        EOL
+    - name: Get redmonkids.m3u8
+      run: |
+        touch ./redmonkids.m3u8
+        sudo cat >./redmonkids.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCr5xrLJTXjihG7KYAu7woig/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/redmonkids.m3u8
+        EOL
+    - name: Get Sesame Street
+      run: |
+        touch ./sesamestreet.m3u8
+        sudo cat >./sesamestreet.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCoookXUzPciGrEZEXmh4Jjg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/sesamestreet.m3u8
+        EOL
+    - name: Get Kids Land
+      run: |
+        touch ./kidslandofficial.m3u8
+        sudo cat >./kidslandofficial.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCZMKZS3L9GfhcFkMyBRoVFg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/kidslandofficial.m3u8
+        EOL
+    - name: Get Hop Hop the Owl
+      run: |
+        touch ./hophoptheowl.m3u8
+        sudo cat >./hophoptheowl.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/hophoptheowl.m3u8
+        EOL
+    - name: Get Beep Beep - Nursery Rhymes
+      run: |
+        touch ./beepbeepnurseryrhymes.m3u8
+        sudo cat >./beepbeepnurseryrhymes.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCc0cGIbYYj79_IUI2A70UjQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/beepbeepnurseryrhymes.m3u8
+        EOL
+    - name: Get SurpriseJoe - Nursery Rhymes & Kids Songs
+      run: |
+        touch ./surprisejoe.m3u8
+        sudo cat >./surprisejoe.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCrRLaQ1hup5VmVINQkgKE7Q/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/surprisejoe.m3u8
+        EOL
+    - name: Get For Kids TV
+      run: |
+        touch ./englishforkidstv.m3u8
+        sudo cat >./englishforkidstv.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCscXMFbjj0JUFgoEHqhbo1A/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/englishforkidstv.m3u8
+        EOL
+    - name: Get Baby Cars | Kids Songs
+      run: |
+        touch ./babycarskidssongs.m3u8
+        sudo cat >./babycarskidssongs.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCKg5OH7nedRD-S3Ex0cc_4A/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babycarskidssongs.m3u8
+        EOL
+    - name: Get Baby Zoo | Kids Songs
       run: |
         touch ./babyzookidssongs.m3u8
         sudo cat >./babyzookidssongs.m3u8 <<EOL
