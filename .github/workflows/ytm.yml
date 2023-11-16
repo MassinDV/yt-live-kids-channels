@@ -25,6 +25,127 @@ jobs:
 
 #channel-01
 
+    - name: Get billionsurprisetoys
+      run: |
+        touch ./billionsurprisetoys.m3u8
+        sudo cat >./billionsurprisetoys.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/billionsurprisetoys.m3u8
+        EOL
+    - name: Get Cocomelon - Nursery Rhymes
+      run: |
+        touch ./cocomelon.m3u8
+        sudo cat >./cocomelon.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/cocomelon.m3u8
+        EOL
+    - name: Get ChuChu TV Nursery Rhymes & Kids Songs
+      run: |
+        touch ./chuchutv.m3u8
+        sudo cat >./chuchutv.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCBnZ16ahKA2DZ_T5W0FPUXg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/chuchutv.m3u8
+        EOL
+    - name: Get Super Simple Songs - Kids Songs
+      run: |
+        touch ./supersimplesongs.m3u8
+        sudo cat >./supersimplesongs.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCLsooMJoIpl_7ux2jvdPB-Q/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/supersimplesongs.m3u8
+        EOL
+    - name: Get RyansWorld
+      run: |
+        touch ./ryansworld.m3u8
+        sudo cat >./ryansworld.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UChGJGhZ9SOOHvBB0Y4DOO_w/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/ryansworld.m3u8
+        EOL
+    - name: Get Pinkfong
+      run: |
+        touch ./pinkfong.m3u8
+        sudo cat >./pinkfong.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCcdwLMPsaU2ezNSJU1nFoBQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/pinkfong.m3u8
+        EOL
+    - name: Get Kids TV - Nursery Rhymes And Baby Songs
+      run: |
+        touch ./kidstv.m3u8
+        sudo cat >./kidstv.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/kidstv.m3u8
+        EOL
+    - name: Get LooLoo Kids - Nursery Rhymes and Children's Songs
+      run: |
+        touch ./loolookids.m3u8
+        sudo cat >./loolookids.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC4NALVCmcmL5ntpV0thoH6w/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/loolookids.m3u8
+        EOL
+    - name: Get Little Treehouse Nursery Rhymes and Kids Songs
+      run: |
+        touch ./littletreehousenurseryrhymes.m3u8
+        sudo cat >./littletreehousenurseryrhymes.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCpzYfBXbEHHQHU2e89jM9Tg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/littletreehousenurseryrhymes.m3u8
+        EOL
+    - name: Get Videogyan Kids Shows - Fun Learning Cartoons
+      run: |
+        touch ./videogyankidsshows-childre6054.m3u8
+        sudo cat >./videogyankidsshows-childre6054.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/videogyankidsshows-childre6054.m3u8
+        EOL
+    - name: Get Jugnu Kids - Nursery Rhymes and Kids Songs
+      run: |
+        touch ./jugnukidsvideos.m3u8
+        sudo cat >./jugnukidsvideos.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCsCe7SNQckiRJ6y563SIupg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/jugnukidsvideos.m3u8
+        EOL
+    - name: Get wbkids.m3u8
+      run: |
+        touch ./wbkids.m3u8
+        sudo cat >./wbkids.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/@wbkids/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/wbkids.m3u8
+        EOL
+
     - name: Get Hogi! Pinkfong - Learn & Play.m3u8
       run: |
         touch ./hogi.m3u8
