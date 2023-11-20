@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700487051/ei/KwtbZa2FBfuG_9EP_eqxwA8/ip/74.249.5.237/id/ciA47LDNUKk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qs7nzr.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f6t8uI6LFvE1wAjGtEzKOD9mv9Y/vprv/1/playlist_type/DVR/initcwndbps/2393750/mh/2I/mm/44/mn/sn-p5qs7nzr/ms/lva/mv/m/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700465071/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAK5Ek0_u2K5yPOfics__iF-kVNjuK-Vgtjdl5dGvj8-IAiAp4A7-h-LQS6EGOsLAmYhuJ1OKZ6i5NnFmUhMlW1SWgQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgZQPepEfbSrRaPkFn0ay9I5w-sOwQ-f8AJAaVlKUOejkCIQDUqZndkpDDetPvqRn9XR-axwjIKwsgQFYSLzyxFMheMw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyfirsttvfrancais.m3u8
