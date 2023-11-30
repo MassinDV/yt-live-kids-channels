@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701369837/ei/jYNoZfXUHpzUir4PppSYuAI/ip/172.183.37.93/id/e-5vnZ-GFxk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsknly.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-nK5uto8chBhc-YeuPrb6sOlGQ/vprv/1/playlist_type/DVR/mh/KA/mm/44/mn/sn-vgqsknly/ms/lva/mv/u/mvi/5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701347735/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAMpZ_fGenuNxaB0rhbUPLnwg8pXjnL0hKLaWvTW3IBm_AiBPjm8d-ZxK6KEiWnA41hI0MuRhd35lx7fx4wmFO8T8Bw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgXVY709NbHD1aceGicDd3ZOI1KjvIqDVtJ-c0hduW0DACIQC3FiE4ZH_HfnQI-Vwnne7AEBhs03wfjGAlxfjwpBEyBg%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/thewiggles.m3u8
