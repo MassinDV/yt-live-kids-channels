@@ -25,7 +25,538 @@ jobs:
 
 #channel-01
 
-    - name: Get billionsurprisetoys
+
+    - name: Get KitoonsinEnglish
+      run: |
+        touch ./kitoonsinenglish.m3u8
+        sudo cat >./kitoonsinenglish.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCMG4lxPQbcIde-nd7ypw3fg/live))
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/kitoonsinenglish.m3u8
+        EOL
+    - name: Get boombuddiesnurseryrhymes.m3u8
+      run: |
+        touch ./boombuddiesnurseryrhymes.m3u8
+        sudo cat >./boombuddiesnurseryrhymes.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCtjAC2H-WCjQ1SiI6Hn5pHw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/boombuddiesnurseryrhymes.m3u8
+        EOL
+    - name: Get babytv.m3u8
+      run: |
+        touch ./babytv.m3u8
+        sudo cat >./babytv.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCGxnmQJquvQwlV_ICDfAKNA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babytv.m3u8
+        EOL
+    - name: Get NuNuTVNurseryRhymes
+      run: |
+        touch ./nunutvnurseryrhymes.m3u8
+        sudo cat >./nunutvnurseryrhymes.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCMEVZK5J38upc4XiRO3sqWQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/nunutvnurseryrhymes.m3u8
+        EOL
+    - name: Get mommywolf
+      run: |
+        touch ./mommywolf.m3u8
+        sudo cat >./mommywolf.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCpYtsVJj-WzLQcEaBXxtF8A/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/mommywolf.m3u8
+        EOL
+    - name: Get officialmarriedwithchildren
+      run: |
+        touch ./officialmarriedwithchildren.m3u8
+        sudo cat >./officialmarriedwithchildren.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCd37TPEORZCsIiDu_z4eyCg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/officialmarriedwithchildren.m3u8
+        EOL
+    - name: Get atoyday
+      run: |
+        touch ./atoyday.m3u8
+        sudo cat >./atoyday.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCpFsQcFDd6UxnzFuXn1gDzg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/atoyday.m3u8
+        EOL
+    - name: Get VooksStorybooks
+      run: |
+        touch ./vooksstorybooks.m3u8
+        sudo cat >./vooksstorybooks.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCGfA6UdZEmpIwBZ4btAKkgA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/vooksstorybooks.m3u8
+        EOL
+    - name: Get GiligilisEnglish
+      run: |
+        touch ./giligilisenglish.m3u8
+        sudo cat >./giligilisenglish.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCgMjhGGLYCNGNUJfDTaStew/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/giligilisenglish.m3u8
+        EOL
+    - name: Get wbkids.m3u8
+      run: |
+        touch ./wbkids.m3u8
+        sudo cat >./wbkids.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/wbkids.m3u8
+        EOL
+    - name: Get cocobi_en
+      run: |
+        touch ./cocobi_en.m3u8
+        sudo cat >./cocobi_en.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC2fWLJgQUxRg-5Mv5A0cJMg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/cocobi_en.m3u8
+        EOL
+    - name: Get hooplahalloween405
+      run: |
+        touch ./hooplahalloween405.m3u8
+        sudo cat >./hooplahalloween405.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCtFlEwit_bGlcE72oDjFzTQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/hooplahalloween405.m3u8
+        EOL
+    - name: Get SunriseJungleBeat
+      run: |
+        touch ./SunriseJungleBeat.m3u8
+        sudo cat >./SunriseJungleBeat.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UChUHOEe7zgYmrv7a_LlpNng/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/SunriseJungleBeat.m3u8
+        EOL
+    - name: Get KatFamilyChannel
+      run: |
+        touch ./katfamilychannel.m3u8
+        sudo cat >./katfamilychannel.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCEmm6bND-l2eyHLiKNYiY8A/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/katfamilychannel.m3u8
+        EOL
+    - name: Get thewiggles.m3u8
+      run: |
+        touch ./thewiggles.m3u8
+        sudo cat >./thewiggles.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC5vVe2R4ucoMzJP53o38Yaw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/thewiggles.m3u8
+        EOL
+    - name: Get Numberblocks
+      run: |
+        touch ./Numberblocks.m3u8
+        sudo cat >./Numberblocks.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCPlwvN0w4qFSP1FllALB92w/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/Numberblocks.m3u8
+        EOL
+    - name: Get elikids.m3u8
+      run: |
+        touch ./elikids.m3u8
+        sudo cat >./elikids.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCVi_GtP-1stDmhPuWCCQ5KA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/elikids.m3u8
+        EOL
+    - name: Get peacockjr.m3u8
+      run: |
+        touch ./peacockjr.m3u8
+        sudo cat >./peacockjr.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/peacockjr.m3u8
+        EOL
+    - name: Get limeandtoys
+      run: |
+        touch ./limeandtoys.m3u8
+        sudo cat >./limeandtoys.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCAd4H7Ze6OR1-T60M0TVwYg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/limeandtoys.m3u8
+        EOL
+    - name: Get bootikati
+      run: |
+        touch ./bootikati.m3u8
+        sudo cat >./bootikati.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCybydLZAUOJYQf4prxezbww/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/bootikati.m3u8
+        EOL
+    - name: Get doctormacwheelie
+      run: |
+        touch ./doctormacwheelie.m3u8
+        sudo cat >./doctormacwheelie.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC7HjsxTK1GPDWyNmZ92TQsQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/doctormacwheelie.m3u8
+        EOL
+    - name: Get transformerskidsofficial
+      run: |
+        touch ./transformerskidsofficial.m3u8
+        sudo cat >./transformerskidsofficial.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCPoCHHnaswi9xdXl-JQuD9Q/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/transformerskidsofficial.m3u8
+        EOL
+    - name: Get loconutscartoonvideos.m3u8
+      run: |
+        touch ./loconutscartoonvideos.m3u8
+        sudo cat >./loconutscartoonvideos.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCH2cMLriCDcvb9Uq_2kf17A/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/loconutscartoonvideos.m3u8
+        EOL
+    - name: Get heybear
+      run: |
+        touch ./heybear.m3u8
+        sudo cat >./heybear.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCtf9cFBJkHVAf2qMqF01xYg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/heybear.m3u8
+        EOL
+    - name: Get bouncepatrol
+      run: |
+        touch ./bouncepatrol.m3u8
+        sudo cat >./bouncepatrol.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC56cowXhoqRWHeqfSJkIQaA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/bouncepatrol.m3u8
+        EOL
+    - name: Get 123go
+      run: |
+        touch ./123go.m3u8
+        sudo cat >./123go.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCBXNpF6k2n8dsI6nBH8q4sQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/123go.m3u8
+        EOL
+    - name: Get shvetetileshop
+      run: |
+        touch ./shvetetileshop.m3u8
+        sudo cat >./shvetetileshop.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCe_PW0fvbea-FwuMosST_RQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/shvetetileshop.m3u8
+        EOL
+    - name: Get diampaperofficial
+      run: |
+        touch ./diampaperofficial.m3u8
+        sudo cat >./diampaperofficial.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCiLdu-qNNVfYucw0iOvMuuQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/diampaperofficial.m3u8
+        EOL
+    - name: Get unuunuanimation
+      run: |
+        touch ./unuunuanimation.m3u8
+        sudo cat >./unuunuanimation.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCFPJM545dilFjngQNV0iewA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/unuunuanimation.m3u8
+        EOL
+    - name: Get birderking
+      run: |
+        touch ./birderking.m3u8
+        sudo cat >./birderking.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/birderking.m3u8
+        EOL
+    - name: Get mellowmelodies595
+      run: |
+        touch ./mellowmelodies595.m3u8
+        sudo cat >./mellowmelodies595.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCIq_DNtx7oxKh1DG6XZmwhg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/mellowmelodies595.m3u8
+        EOL
+    - name: Get bestcarsandtruckvideos
+      run: |
+        touch ./bestcarsandtruckvideos.m3u8
+        sudo cat >./bestcarsandtruckvideos.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCLvqNuBq-cbYPSIFg1R1hiA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/bestcarsandtruckvideos.m3u8
+        EOL
+    - name: Get knomusic
+      run: |
+        touch ./knomusic.m3u8
+        sudo cat >./knomusic.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCVX_4LoUm4mdZBPdpMJkkSQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/knomusic.m3u8
+        EOL
+    - name: Get babyaliveofficial
+      run: |
+        touch ./babyaliveofficial.m3u8
+        sudo cat >./babyaliveofficial.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCXuyuLGGWH7jzd6nIRJVi0A/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyaliveofficial.m3u8
+        EOL
+    - name: Get babyshark_spanish
+      run: |
+        touch ./babyshark_spanish.m3u8
+        sudo cat >./babyshark_spanish.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCSt2n0wNy6MSQUkBmcPgSug/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyshark_spanish.m3u8
+        EOL
+    - name: Get funnybabybros.m3u8
+      run: |
+        touch ./funnybabybros.m3u8
+        sudo cat >./funnybabybros.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCiOHSKqjkvMz_4u3tY0vFEA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/funnybabybros.m3u8
+        EOL
+    - name: Get coolpeachybaby
+      run: |
+        touch ./coolpeachybaby.m3u8
+        sudo cat >./coolpeachybaby.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCOTtZqs7-0kLZ6zSxkIF5Gw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/coolpeachybaby.m3u8
+        EOL
+    - name: Get zozomonkey6672
+      run: |
+        touch ./zozomonkey6672.m3u8
+        sudo cat >./zozomonkey6672.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCfFNIhQslq6IA4s00HB6YtA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/zozomonkey6672.m3u8
+        EOL
+    - name: Get kudomonkeykiki
+      run: |
+        touch ./kudomonkeykiki.m3u8
+        sudo cat >./kudomonkeykiki.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCT_Viu4mefzSI1scTJpHvIA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/kudomonkeykiki.m3u8
+        EOL
+    - name: Get coolpeachybaby.m3u8
+      run: |
+        touch ./coolpeachybaby.m3u8
+        sudo cat >./coolpeachybaby.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCOTtZqs7-0kLZ6zSxkIF5Gw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/coolpeachybaby.m3u8
+        EOL
+    - name: Get babyeinstein
+      run: |
+        touch ./babyeinstein.m3u8
+        sudo cat >./babyeinstein.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCtBOJ9bEAoMOY9keGK6p2hQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyeinstein.m3u8
+        EOL
+    - name: Get babytiger-nurseryrhymes.m3u8
+      run: |
+        touch ./babytiger-nurseryrhymes.m3u8
+        sudo cat >./babytiger-nurseryrhymes.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCXaqU3VXwOljYd3rPkasOBA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/babytiger-nurseryrhymes.m3u8
+        EOL
+    - name: Get funnymaxshow.m3u8
+      run: |
+        touch ./funnymaxshow.m3u8
+        sudo cat >./funnymaxshow.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCC2HNUmmljS-LgMIBmgF89Q/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/funnymaxshow.m3u8
+        EOL
+    - name: Get girlsttoyzz
+      run: |
+        touch ./girlsttoyzz.m3u8
+        sudo cat >./girlsttoyzz.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC8seEW5sdRsZKFbNr-oR2WQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/girlsttoyzz.m3u8
+        EOL
+    - name: Get monkeyoxy5828.m3u8
+      run: |
+        touch ./monkeyoxy5828.m3u8
+        sudo cat >./monkeyoxy5828.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCKEhrwiVd_lMv_e3_u4_H_g/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/monkeyoxy5828.m3u8
+        EOL
+    - name: Get littlebabybum
+      run: |
+        touch ./littlebabybum.m3u8
+        sudo cat >./littlebabybum.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCKAqou7V9FAWXpZd9xtOg3Q/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/littlebabybum.m3u8
+        EOL
+    - name: Get daveandava
+      run: |
+        touch ./daveandava.m3u8
+        sudo cat >./daveandava.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC6zhI71atP7YLoZyIyCIGNw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/daveandava.m3u8
+        EOL
+    - name: Get monkeybabychallenges7654
+      run: |
+        touch ./monkeybabychallenges7654.m3u8
+        sudo cat >./monkeybabychallenges7654.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC5N2RLdykazJDokQZQutcTg/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/monkeybabychallenges7654.m3u8
+        EOL
+    - name: Get pixarcars.m3u8
+      run: |
+        touch ./pixarcars.m3u8
+        sudo cat >./pixarcars.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC_VtrptObkqqp9tp3jycINA/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/pixarcars.m3u8
+        EOL
+    - name: Get starwarskids
+      run: |
+        touch ./starwarskids.m3u8
+        sudo cat >./starwarskids.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCDe7m0POuwkL1gwnQ-FVhMw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/starwarskids.m3u8
+        EOL
+    - name: Get gabbysdollhouse
+      run: |
+        touch ./gabbysdollhouse.m3u8
+        sudo cat >./gabbysdollhouse.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UC_jCXm9x_z9_kp8DNbIs6mQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/gabbysdollhouse.m3u8
+        EOL
+    - name: Get lena_crafts
+      run: |
+        touch ./lena_crafts.m3u8
+        sudo cat >./lena_crafts.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCFQt0hOP-1oGZxJs_0NmXpQ/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/lena_crafts.m3u8
+        EOL
+    - name: Get rubbleofficial
+      run: |
+        touch ./rubbleofficial.m3u8
+        sudo cat >./rubbleofficial.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(yt-dlp --print urls https://www.youtube.com/channel/UCMPKq9xxIiAtfkOFW8gYwNw/live)
+        https://raw.githubusercontent.com/MassinDV/videos/main/kids/rubbleofficial.m3u8
+        EOL 
+   - name: Get billionsurprisetoys
       run: |
         touch ./billionsurprisetoys.m3u8
         sudo cat >./billionsurprisetoys.m3u8 <<EOL
