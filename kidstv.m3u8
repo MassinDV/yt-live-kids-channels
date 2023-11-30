@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701390040/ei/eNJoZb6nNpSZsfIPjciUqAI/ip/20.172.29.181/id/it3BgiXR4Sc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr33---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f72sd8jL7Q3DsjUA5w0-EQE9kAw/vprv/1/playlist_type/DVR/mh/eT/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/33/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701367472/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAPfCP2onJR1jhkU9BXAX4u6Si4pSmicVJvW5WaraK2DUAiBGlQHHM9SHuDCgb7NKl2AQofn3aeClvDAagVScWmqfxw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgaX81XvL3o6OnevOJZ1tMU6Da2JE4fYGEp2VafXZiQlgCIQD2Ljbz3asOAVRpqj2L4exu2peMJlb5t-ev2s201_-yig%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/kidstv.m3u8
