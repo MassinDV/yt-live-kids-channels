@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701490670/ei/jltqZeKwKc-RsfIPst2H6Ag/ip/20.171.122.180/id/Ur6EWoX7Fic.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-a5mekndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f08NzSh8k3mPnw4xY4cT0OgPy3dAgFdjp8tk3w/vprv/1/playlist_type/DVR/mh/ar/mm/44/mn/sn-a5mekndz/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701468642/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgYROZAs9CTwb3W-rPQtOpnp-2Jdm7FRFDmm_8qiuq_DMCIBD1xjb-O9vuSYoKlYxEAP7zPTivM2VMPDhxauFxkmAx/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhALCCaF_R2nxxYLJmMu4iffAUIQ2IhN72MNi1Y1QJIe93AiEA7gsZfHhEmb-A0x5ZicJWij5dyx3zZ3wxzaC775xeoco%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/powerrangersenfantsofficielle.m3u8
