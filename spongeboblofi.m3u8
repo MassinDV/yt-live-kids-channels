@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701433343/ei/n3tpZeDOMY6tlu8PmvKeoA4/ip/20.172.25.65/id/Ugia8rq8aVo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-a5msener.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzzaQ8GrTp-boM1Ad7EhwY4lGyiFmt8wNZdFfuq-UWz6byD7/vprv/1/playlist_type/DVR/hcs/ir/mh/m2/mm/44/mn/sn-a5msener/ms/lva/mv/u/mvi/3/pl/16/rmhost/rr2---sn-a5msener.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701410859/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgZyWOLRqhX1Ci74_WocVo_Y8gqlQxPIoS3nq8Z6hS1b0CIE7f60myzqfd0P0KW5mViJTStRe5ABbxxbZCRE81jlWo/lsparams/hls_chunk_host,hcs,mh,mm,mn,ms,mv,mvi,pl,rmhost/lsig/AM8Gb2swRQIgHGOchtoFSkh2cV9cE1YyvAxzFwvEcYdfaQIM_CabiYgCIQDg7lTBmxM2wT7b7kBw1rbHUFrHHQDRQziYvxLVIB0FNg%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/spongeboblofi.m3u8
