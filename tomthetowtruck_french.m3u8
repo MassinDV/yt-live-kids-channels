@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701433390/ei/zntpZbb5C-Sslu8PxPip4A0/ip/20.172.25.65/id/6_7AkDpAgic.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-a5mekn6s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9zqP53RExlKE1J4rj_f8w6DPYNZRjM5uhFPXw/vprv/1/playlist_type/DVR/mh/xb/mm/44/mn/sn-a5mekn6s/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701411526/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgJZARO07aFuYefVIigEbFovoA5ubB53Q08oUBswaaAa0CIGEk5u4oCmJT6QUlFtZpZ14JFPFAoGStwK0LM3HdCyES/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgEFdsh2AlZlYc7WOdJMV6S7LjfYqKRlwfkQYCiQSTI6ECICKLnGFRBOpgBp2Vpx4eYcKrT3JXnYqWO2QxvFRuWAhf/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/tomthetowtruck_french.m3u8
