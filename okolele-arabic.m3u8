@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701533803/ei/CwRrZd3sFI6tlu8PmvKeoA4/ip/172.183.77.194/id/dG0oPiDLHnU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsrns6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_1fApXZJv441RCQPmAeKcJk9tOZW4nHEuE4JA/vprv/1/playlist_type/DVR/mh/Pl/mm/44/mn/sn-vgqsrns6/ms/lva/mv/u/mvi/3/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701511234/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgUx2aOZAin9UfFrv9ITLInOqQwZcFnM_NR1ZVE_7bzDsCIFbGQRvoNtfYhLLZoe-keA2QLPc6juaSd-xPxW-KvatV/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgdJsPVrmXE4A3oEQUwJ2yWKp2RTLYlk_2sgdabmBbhuMCIHAkegSUZ9ATPB8ATOfpEQcLeL5ZR2MbUcJCT4z74TpV/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/okoLele.m3u8
