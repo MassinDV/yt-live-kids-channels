@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701569736/ei/aJBrZfrbD7WUsfIPkYmJoAE/ip/13.91.69.161/id/kZNQOSOBu0o.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6-YGzxF6a1gpRcsSnlc_235Ecg/vprv/1/playlist_type/DVR/mh/CD/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/8/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701547511/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAPddzeZ2R3bnjqOg84FZZJ1RLMSoXGgiLhRhxKrs5TJ1AiA68M1Lj-t6AHRj1BfTam-mDqH3H32-vxcRYww78_7d1w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAMmO_6BK7cm8GqgUgxqmZeF6Aw167KyANAq4dRmkez9xAiEAx3p8XCzH19Kyc68Znd0JnMw4agiptY4SLpnXgeBplvw%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/lena_crafts.m3u8
