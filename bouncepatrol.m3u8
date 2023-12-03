@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701663179/ei/a_1sZYvwDeGl_9EPpIOFqAw/ip/74.249.5.224/id/RmegxGSq7oo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4G9YCem_zyNxLTPmHuKlXOmvCI/vprv/1/playlist_type/DVR/initcwndbps/3121250/mh/WD/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701641311/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAORkrNnoUNVS8A1Uon7Jrj6T5RZGiFPfMGCvCF5h-qGmAiAN1_JsYpW7hdrKDRzhL4dc44ew4Ak3J6hLZWOyHchftw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgbG_lY-5yZD2eMPkCv2IV8zxWt03iLzfvIRwv0MzkL04CIQDR217Hlwq47TGXR3GpFbBj5D7HoQw8koQqRYcfFSGOhw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/bouncepatrol.m3u8
