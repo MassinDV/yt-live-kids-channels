@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701638056/ei/SJtsZeLQCqyDsfIPwaiYqAM/ip/13.87.243.33/id/eniHY4T8AWU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-o097znss.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0Sjl6oL251YPAYtsdOqrPpu678/vprv/1/playlist_type/DVR/mh/UC/mm/44/mn/sn-o097znss/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701615838/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgGAZYNpidp4gZ6I6PErk_T9pywA8RsUi00vyMGXZkVdYCIGlxCgn2jmr0KXngyMHQK8ysipxev34rdQd82-0Oba-U/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgIANK-rldaRaNSGKF9hUPwpGMu_QKEozi8185MLNYgy4CIQD4lrJYkv4BQZ8Fng1Al_3xlgdBwWyXwGwTf80Rw1pmdA%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/monkeybabychallenges7654.m3u8
