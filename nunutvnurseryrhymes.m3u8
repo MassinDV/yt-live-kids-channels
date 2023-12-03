@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701634291/ei/k4xsZeHMOv67_9EPwqmdsAs/ip/74.249.5.229/id/vA6kbVrcz9k.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qlsn7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_M23-N64sbhz5bFBbINLLDjou0/vprv/1/playlist_type/DVR/mh/dT/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701611936/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgddujmO0J_U1I6wdMKMxmJdZYZzRnx5UfU5rW6JD2kWACIQDmIUwh-AnQzs8NRw1UvNbss7BeNIvfi8XmrVd6eLVZpg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgYBai96Jv2EWsBVLu8DHXW-YKuHFxNn6r1JQm4FhO2UkCIDFnV-1REGm-8lvv76d-bERbll8OsM-jQvxpL7Miux1A/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/nunutvnurseryrhymes.m3u8
