@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701659728/ei/8O9sZdu4Gp2glu8Pt56tkA4/ip/172.183.107.247/id/H6eAxPxp0OA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqskned.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1tUuFCFr22vNAn3PJGguNEPJ7Y/vprv/1/playlist_type/DVR/mh/bG/mm/44/mn/sn-vgqskned/ms/lva/mv/u/mvi/5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701636880/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhAI84X-57gf1qg1NxiL2PZ3NScVewUQMjSFeUHX1CN-2uAiEA3kLjovOFZxzT290io4TqrX-ANrhblEXF2_QbF9S8lng%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAIMicxcGwybSLgMuN0lqr8OGFYhWpKqzfyyKPtIhDSaCAiBJCOlu4Z5XDeXfuRqgeLz0dL4COxuq5xHWup8Hk6oHQA%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/increditales_french.m3u8
