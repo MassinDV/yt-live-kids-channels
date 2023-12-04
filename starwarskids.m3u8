@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701724602/ei/Wu1tZYWoL6aolu8Pg8eS-A0/ip/172.183.155.72/id/OGkUxOlAGgA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsrnsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f-6T0HzQxQR1IPfc_ndq5EYE98rII-Zc-6dF-EcrldkgHDCg/vprv/1/playlist_type/DVR/initcwndbps/1320000/mh/MG/mm/44/mn/sn-vgqsrnsr/ms/lva/mv/m/mvi/3/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701702758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/ANLwegAwRAIgYRtDqCh9Ql68asWQn5WFoO7JEVsTAa4Ar5DCvQlZdyACIAz1VAzyWxYNsjYRapheQKNirmECK5YHuDniUar2zxnc/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAIN64HerfnZxsF8qATt9rKIJzaQnnDACyRdKUmuvR6LhAiB5NXzVIGG1X1qS4AraGQN6zQIQpsDEyfAgHD6XLkn_QQ%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/starwarskids.m3u8
