@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701980182/ei/ttNxZfvAOfCP_9EPxfyBkAM/ip/74.249.5.100/id/Ugia8rq8aVo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-p5qlsndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_giSkRf8foQPauJzumLloWP9pY/vprv/1/playlist_type/DVR/hcs/sd/mh/m2/mm/44/mn/sn-p5qlsndz/ms/lva/mv/u/mvi/3/pl/16/rmhost/rr5---sn-p5qlsndz.googlevideo.com/smhost/rr2---sn-p5qlsnrl.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701957965/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhAL6hqvzMW4j1ojqNJ2QSvPxOeSYDMn-zOVQ7Q2iaFV8JAiEAyAPblNXeXJ8XVIOcdZMHUn7yhT9J-y5UcL4QkGd4O5w%3D/lsparams/hls_chunk_host,hcs,mh,mm,mn,ms,mv,mvi,pl,rmhost,smhost/lsig/AM8Gb2swRAIgJSe07JGhiCKCTITP161M63CYLwW-vHsoywx_noIqxpACIAjbe2FUPI9mE-2Qklb_L6N66DRoye6Q6aIk5p8AXlsM/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/msrachel.m3u8
