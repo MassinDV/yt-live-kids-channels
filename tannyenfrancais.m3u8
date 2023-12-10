@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702203657/ei/qTx1ZZrmD4OI_9EPs7akuAk/ip/20.97.191.129/id/9OvFSQhOv_8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-p5qddn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-RWOjWTo0swM5lNQ259d67nidw/vprv/1/playlist_type/DVR/initcwndbps/2291250/mh/X8/mm/44/mn/sn-p5qddn7d/ms/lva/mv/m/mvi/3/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702181780/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgTE6XDN9c0DDz5fe3vNrTxXXIhUr5aOhHg70sm0dzwo0CIQD9nuQMTV61Qv-R7OOywpab8BFN4KGR5fb6s2kKZtS2lw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAOtWNV2haCw-mbaZdELs8-WLS-b7QOwYUkNSSGk-7Dr7AiAvC0z-s64JQTu_mR8Fx7_ihLEteCi0aKCVxySIa0y48g%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/tannyenfrancais.m3u8
