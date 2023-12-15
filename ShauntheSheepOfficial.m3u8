@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702660507/ei/OzV8ZeCPHoWIybgPhdGcgAQ/ip/172.183.74.14/id/eUvYFikXiwg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-vgqsknzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fxabqroTE-zeESTAW2gJes5-pYg/vprv/1/playlist_type/DVR/mh/yg/mm/44/mn/sn-vgqsknzr/ms/lva/mv/u/mvi/3/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702638568/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIdaAnuhkn_oFXpWH514TC9CLFz3sdbrZ8W6364ysmMhAiEApcXL-IBhq_GSyD0maKBLqSj6BOs3H9olWskHTkrhlv0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgTJhRUnj1U5ee8DEA6uRUUQR__aSoDWzfToqmcBy2QkwCIGBJUnNEZv49idSMHdcsQSEbzwiQj69WAZw4J76UuZI9/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/shaunthesheepofficial.m3u8
