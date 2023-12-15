@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702703746/ei/It58Za20MeqTsfIPytSA6Aw/ip/20.172.5.210/id/PTEBPgZiyFg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-a5meknzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-D5XXyR0TYOK1s8kYg78hdu5QQ/vprv/1/playlist_type/DVR/mh/dt/mm/44/mn/sn-a5meknzk/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702681784/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIhAPX-lqohVLboh0oXkr0BKOG1lwJurBgv-Y4U93saD620Ah8Jn8kFufvy_Ih9TQAypI3Jcb1Uyxn7wNAabH9Ju8J9/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhAKX17Ay6yP3vz91FUkPjjLc8lIOXugSPD207m4LdbfE9AiEAlkI_Id1Xn375qIl6J0ZRQ2lpJwBrS0cZWvX1zsrmiyQ%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/supersimplesongs.m3u8
