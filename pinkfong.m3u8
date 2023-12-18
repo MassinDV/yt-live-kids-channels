@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702894784/ei/YMh_ZaG4FLvKsfIPqdCk4A4/ip/13.91.69.161/id/CiIPXWikONE.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-a5meknsd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwQii0uCmiRgshIBHa1N9G42Uhe0XQaG32k37A/vprv/1/playlist_type/DVR/mh/OP/mm/44/mn/sn-a5meknsd/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702872241/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIlE3b7y_eKzhh5jDz5nfckEgC2s9asFfGiXzLY2jCnOAiB-n-I3pNBRsttTecT8UHeuNXci1qWMQnHM-6cujeJyRw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAKHyhsq1jowCfGEe1veqpqtBeHOrTo1NPB4XHc_aYswvAiAQrwZ1UJLSmTfbWe-UukwtW3fF1pcCBdFBPkNy4dEp1Q%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/pinkfong.m3u8
