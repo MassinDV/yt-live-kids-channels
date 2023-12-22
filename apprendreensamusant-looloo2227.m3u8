@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703294106/ei/OuCFZefiHbaLybgPkoe6oAk/ip/172.183.51.70/id/ljChAqWXOcc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsknzd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzVyLdECpn7V8oEo3jClP983BjmpFjdyb3Gkcg/vprv/1/playlist_type/DVR/mh/6r/mm/44/mn/sn-vgqsknzd/ms/lva/mv/u/mvi/5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703271466/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgRcn6l5LqP29IMiBIjkFcok8BKkGqGJcYpZ2T_e6l_MoCIQD5Hx69jCX_mmjYs8scTVdJIbdvI4Dy2WLO69_FQVEtaw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAI3SB6LtnQVqiEBuQSwV-VNKf1t3UgSu4cJh1ux2KCTcAiB45O4-pgbyhLSci4wm4fspVKyOPxjKHhnqjW-_yRDb6g%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/apprendreensamusant-looloo2227.m3u8
