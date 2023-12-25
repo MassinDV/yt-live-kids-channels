@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703557086/ei/fuOJZZvCLf6O_9EPscWbiA8/ip/40.79.247.97/id/YAu8ZBZzv1c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-p5qlsnd6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1UKSAJqoqAMaHxz1tpfMZj-iJU/vprv/1/playlist_type/DVR/mh/uf/mm/44/mn/sn-p5qlsnd6/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703534941/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOfspXCuUmTBxCy0zc2-J8-4b0MQkG3Ecaf3SPxSB2__AiBZ6B_R5EyK-tnqnMgInUV52GvqvFF_l5T75xGR8IO6QA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIgP_HvQJlcyG4ioZ1omt6p7ghy0INpQ64VlMEwr-60onUCIQCRPUGmmuwza15oGnjuaa0GYuSLWJMYCwNkHXlUOVzuHw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/littleangelfrancais.m3u8
