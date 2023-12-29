@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703845177/ei/2UiOZYXJN_y1sfIPm9uZ4AQ/ip/20.172.44.131/id/O9SNJrUwOXk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-2imern7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fx7LKLYS6BM0Li7lBAfcP5VhmQ0/vprv/1/playlist_type/DVR/mh/d9/mm/44/mn/sn-2imern7d/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703823029/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgIKALU9hlZESNoAq6_9nDAUYgoEpYr4Pn-laKINuLBaECIEoUZGprp_bsC1eFxaFoWl0zF1Ot-PFhYttN3dJBWblu/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIgFjb8chtjYeUKZIlI5fpNY4faibpuy1WtgCW7VhBpDqcCIQDJmm818FPFUs_z0u4Fou8vJP_9Yjcvzt5nULrUXQImaA%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/redmonkids.m3u8
