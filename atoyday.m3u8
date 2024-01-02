@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704183999/ei/X3STZduDGrCAir4Pnv6uiA0/ip/172.183.131.18/id/z-LimwM2dgo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-vgqskn67.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-r1wcVPgLoPHa8LphKIijUzbR4/vprv/1/playlist_type/DVR/mh/1m/mm/44/mn/sn-vgqskn67/ms/lva/mv/u/mvi/2/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1704161459/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgX-PACIkI98H0hBZGo1kkAb2buoCMQhB1G2kPrSSItxwCICnJ1oMrAbnDdHIKIq3oz_CvUtnob3V5Rhb0loZEJsGG/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgNI7MU9HCVsSCyImHSOjupkBzyhjzzUXgsXWq_3H1s0ECIHiI4U_K2FUUD0rku_fDgGaHWKqALZ7iQLOmDbVRZRV6/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/atoyday.m3u8
