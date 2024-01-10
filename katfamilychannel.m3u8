@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://i.ytimg.com/sb/M5t4UHllkUM/storyboard3_L2/M$M.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgi867OjBg==&sigh=rs$AOn4CLD6zz6wUMPtwBuO9zjkyt-TR6iF_g
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704925145/ei/ecOeZfW2I_OM2_gPuvGn8Ag/ip/172.183.122.249/id/kLyvucC4ATA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-vgqsrnzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-I9FMOFdw2-UUvDlFns7AtZqz3tMvYk/vprv/1/playlist_type/DVR/mh/i_/mm/44/mn/sn-vgqsrnzs/ms/lva/mv/u/mvi/1/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1704902904/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgaxWEgu0cbuwF1KSyYgPAv79_00BwkxZnPC4aLUXgtzwCIQD-rOFJQ1jSrHAXc6h0jwaB8OpcRyB9Zls1D33BTecSmw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgNsYJBio8syC120SoHbFekpC4ON5kHG-dfhP5CX5xlpcCICaZXAPXYsAaY2Aq0pk9ueKlYMJ5ExJKXiMGgb-QhO_3/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/katfamilychannel.m3u8
