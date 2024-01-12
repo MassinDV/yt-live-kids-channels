@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705043132/ei/XJCgZfPZBLa-sfIP6N-m2Ak/ip/52.225.76.31/id/mZ_EetU8o4w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-q4flrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6YWWdwKcZbVWooD3mfeoF3l0mZGoYVn/vprv/1/playlist_type/DVR/mh/4n/mm/44/mn/sn-q4flrnl6/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1705020329/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKgJvSWnnnE0lohtKirT5unVy0mcPXK96icMzOPewijnAiA4lBYc4CUz71yrCcKZTDwR7d2nqnMyWrXsm2INCgJwdQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhALCdnV2l3PwH0yqW8oVgQYk_OviQFpvxesPxZmkVQ6GzAiEAyV5x-6n4ULmJA6Bzu86P_18T_Qig7JkSd8qAisCwRDY%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/bootikati.m3u8
