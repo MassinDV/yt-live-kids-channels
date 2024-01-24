@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1706091645/ei/HZCwZYmnMuWZ2_gPh7ibqAU/ip/172.183.131.200/id/sMCBBp6eICg.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-vgqsrnzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_Y6ryvIPOlqqN7IEj8ceZa3KpfIw9cQsAdDhdmEW7E/vprv/1/playlist_type/DVR/mh/AI/mm/44/mn/sn-vgqsrnzs/ms/lva/mv/u/mvi/5/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1706069088/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgcaIlmYl2hitnQR9QJ_obdM6Mqu0fqKMum4_BGOB1bVkCIQDYpvnlKkeyBvgNQhqt-VV6RlRormLTYd0sYY5nhoOUqw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIgSc0xuCe7dHmuIFhHi-14TpxCWlnQJRYp5y_SzJfNhZUCIQDRnHh7ddFiFl2BWTaw01VGVFB7Re8T2drH8tmPmg4qbQ%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babycarskidssongs.m3u8
