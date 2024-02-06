@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1707229075/ei/M-vBZd2QCZKZ_9EP7qmfiAo/ip/74.249.21.243/id/WUeEzQgT174.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-p5qddn7z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/se/mm/44/mn/sn-p5qddn7z/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1707206326/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgcAy1j4bCfMiEGCYCbBi_t9RJm8r_EI4R7jHo4yC4vngCIQD72A-9DA7iwmvrb79MFI0vlUJgVIWZcgK_MJr7O9Y2fg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgevHlyYL4Adk7ELqgom4EqH8E5M0pL5TwfS0uFGooacICIF23X1ULyBAmv4y0E1Q6MYtxiO_oUoJfwnbZyJqzCY0J/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/diampaperofficial.m3u8
