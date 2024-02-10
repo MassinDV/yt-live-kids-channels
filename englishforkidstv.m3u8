@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1707610710/ei/9r3HZfXYIdWWsfIPrqWQ8Ak/ip/4.227.115.0/id/vk_sbMoaq98.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n4v7sney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/am/mm/44/mn/sn-n4v7sney/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1707588024/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAOVDLhlRXqPfmOx2zF_0PgCC-KfD36vvpBZz7to3UCPbAiEAxawRw3-kkKl2eYesUC9U7YBH9RS9Ik-DElU6yS_an4s%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgAtS8t4_SFEoXfS1wbfIi8aGrTBP8MZ-v0uE75kN5rs4CIFVx2OymwVKmoTRpKuTbL3bH1K24bF6rRtZX1_CZxM7l/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/englishforkidstv.m3u8
