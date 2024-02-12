@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1707762356/ei/VA7KZcW2K_iglu8Pv9680Ak/ip/172.183.82.150/id/NO0OILpuKIU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-vgqskn6z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/qi/mm/44/mn/sn-vgqskn6z/ms/lva/mv/u/mvi/4/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1707737906/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAJD85nM0a57OdAm5UOTknQBycNlhk_oN2p-Twpz5Xta0AiEAs8QYLOOqco085yDQX7on-5cbhawUppJbHllwV0IZ_hM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIganXKDm7ne764Sjhh09By90Y8ubWKJC5CYbgRVFQSIbQCIDXtyWVUxM1OlNgl9SY-nLF4TZpAJIMgHqetE5hABF1W/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyeinstein.m3u8
