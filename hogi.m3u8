@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708517968/ei/8JXVZezhD6LWsfIP5umI4AY/ip/13.91.68.174/id/JB0mPXhBlDU.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-n4v7sns7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9h8JKDf7LQY1raei3bNigE1uvqRHjLKfsbLzNaBbwE/vprv/1/playlist_type/DVR/mh/qB/mm/44/mn/sn-n4v7sns7/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708496055/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANwtUW5_T_f5n7eCQCc4jJTnhFIhSrEDnBDl9UriZDgcAiEA2D3bQMSDcLd6IsAlJdB6UgtLAM81AVmwMvJ-_KR1ImI%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIgMIio9DclMtFlWaUZp4fqS8Z3ICF8XUgrRBMO5YQF6KsCIQDixPyXhhZ2eUSZoDPTDTod0p_5WiaYXG9kshul0BoZnw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/hogi.m3u8
