@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708888601/ei/uT3bZZ2EMsbUsfIP_YK_kA8/ip/20.172.7.71/id/cEn196kVPa0.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-2imeyn7k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0UvsxtL5eN1hr_2WLJcsuiaQ6alUPN42eBEwD2CqJY/vprv/1/playlist_type/DVR/mh/RV/mm/44/mn/sn-2imeyn7k/ms/lva/mv/u/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708866562/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgPPXVoEkPtaBlRMWVrFiN0QpTt7P1LfHw_q_QMuXbx3sCIQCrITiZbqr5liQR_gVbsq96ErpIMJ29etJk5cZWDkYxyQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRAIgVC5hxW2U3vg0tm7GuwyGR4P1S-TBGrva3zZFe1FLDk8CIECA0XTz3ijXQlrthLcQG4_KtoPUyMhdzvdscBJQgg69/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyzookidssongs.m3u8
