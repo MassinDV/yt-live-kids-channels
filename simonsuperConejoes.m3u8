@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708870714/ei/2vfaZdXmN9-zsfIPotuZuAQ/ip/52.238.27.65/id/UPJeR1Hw_rw.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-q4fl6ndl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fye0yivKHOL8OwJHoIzasYQ91Kr4zy6rDhydvUKzgF8/vprv/1/playlist_type/DVR/mh/56/mm/44/mn/sn-q4fl6ndl/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708847763/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgfOzCT08oq9lnhr7N54CQQEX-TZYwOtgoOzCjjJRObswCIQDVl6-8NWKHk-ZfUh3LqiSVlZwADW4m_4aMjploflAxbg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRgIhAK2qtcKlONj5QJhF6clmgOo1akmvuMRmBn_ReJn3vuzBAiEAlF63gQ-XpbdblXc_JMAhqFZsY4dmPDqXtdjCVzBbTQM%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/simonsuperconejoes.m3u8
