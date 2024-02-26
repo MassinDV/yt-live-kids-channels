@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708982216/ei/aKvcZba7Fu7ksfIP7JaYwAQ/ip/20.172.24.211/id/U_8yHSbaIYM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-a5msen7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4AIPCOuQfCR7c7qiAJeEh7RknT4OSv2ySO9QFJegXM/vprv/1/playlist_type/DVR/mh/es/mm/44/mn/sn-a5msen7s/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708959893/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgA3dTndLltMfEx7gKP9GZasKFC8y8OjfxdD-LEaMVpDwCIQCf9Nl2-FM7tPSoDhGOE6eGZWRUZhjjWl9G_QpA_xE4ww%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhAMGcLH3t7gl3UZEAoH_JwFgieORVK5ybgEFP0FqmuoCqAiAEUeTp12klURUUJDd9Ge2ly2P58HZQLnWGsz8cqDi7Lw%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/finnytheshark.m3u8
