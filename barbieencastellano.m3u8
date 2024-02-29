@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709216376/ei/GD7gZdatLqDYsfIPh8GloAg/ip/20.172.5.33/id/HHqLtTX2B-w.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-a5mekn6l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_4TSjw_bBd05w1kDvmGrLaq8pwUB53oPmpZYgrFLm4/vprv/1/playlist_type/DVR/mh/QW/mm/44/mn/sn-a5mekn6l/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709193764/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgdyNFsnZ3BngfPuDUJIHCPgB7KwOgKt2BrSRBDm5UdDkCIErT03NpLvvGtsoHLHGfE3BHK4TS2ForzVTMKzfoCMIB/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRAIgGVWTG9dw6-9x-r5rsZ2UNvsEwo4agENmDdkNCp01QyYCIBJD2Zq6j5kRYmG9j3GBb4tUIto918y88fN3INH4zE60/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/barbieencastellano.m3u8

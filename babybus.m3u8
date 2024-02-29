@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709216355/ei/Az7gZcLyIKLasfIPl4etgAI/ip/20.172.5.33/id/vg5SRg9dwiw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-a5mekn6l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fxkASKiFaBqYCZ6l6RkSFi6rGvMFMTPKifmid6wEnwk/vprv/1/playlist_type/DVR/mh/WM/mm/44/mn/sn-a5mekn6l/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709193764/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgVuq5FoAXAiAK2n0-UKy3vNxE9idVB96myuNjZ3MCjF8CIF6UUo8QpCp3cF1iF0YuUNVu1jd1DACeAFGVJUSaRNur/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIgNMNxtm1QYHXo_Mt3SB8vUqvakjZJIb9zGV4IXhwaD9MCIQCGNhDtTQp_qcFaserlxKfiaVuk1QnC5eYxgDbiHTaGpA%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babybus.m3u8
