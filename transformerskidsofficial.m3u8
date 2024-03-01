@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709313108/ei/87fhZYblPNy3_9EPmLW9oA8/ip/74.249.14.173/id/0QQHzeDp97E.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qs7nzy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fw6yn46CrjDxCJ9B6EblSzF8Dq9cDsw3AGvZJcinfx4/vprv/1/playlist_type/DVR/mh/4H/mm/44/mn/sn-p5qs7nzy/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709290002/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJGD9twnoCHuIec85tS2XtrO5g66VtasxnwoLLbmwe-sAiEA5YbxSmE-Gx1nCvcv7wIZwlo1fIY96RUv_-APICdMFOM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRgIhAMJpSHQquBELmVTso2-cL_anbyHC0eIUQ-_T3I0s-DEfAiEAk6A4etcbJX1i3_U1OUozA7htoQKpK0PyjUOZDOfGiEY%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/transformerskidsofficial.m3u8
