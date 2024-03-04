@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709605015/ei/NyzmZbXiM5CRsfIPz8qEwAk/ip/20.172.28.128/id/SbeSV1XXTGc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1jvZtu319n774DCibBHuo49oOW4S-2PeOvQm5vGyEc/vprv/1/playlist_type/DVR/mh/B4/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350321/mt/1709583022/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIqfcXqcdOsPcuwA7IPK5-3Xe2yWrKOK6RTasO7fIMA_AiBodui17S2UEvi8M1c_mbJgo0nNIUviYPv-ogTpStV21g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRgIhAOPG-gQTMQnoNGbv-2UtJDvQrboQ-AB8rDWTxSSuVymnAiEAsf7lFjXDJCTkDshVsZy-9nZPi7MbGVzEYILjIdYzZlQ%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/barbiedeutsch.m3u8
