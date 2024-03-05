@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709663323/ei/-w_nZbzcEprNsfIPuoKV0AU/ip/20.172.17.132/id/wIPx-b34k3Q.19/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hls_chunk_host/rr4---sn-a5meknd6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5zBa-i9CmO5aGXIWv7kSJ-L-uDfN6ccDggHEs5JbOE/vprv/1/playlist_type/DVR/mh/fJ/mm/44/mn/sn-a5meknd6/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709639260/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALZIKEa6EbSUOS5VgXu5R_wmM3FKRng6SGOPXIR3WR0MAiEAycAwmpgy2CP23wAbPGnC4ylMFjGL94nj8QVcD2PmDSU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRAIgRdc8Gca28cxLkkZklXeuLi5VDkpFg31aXxwuBkLzQ5MCIBW3UmTJqcMh394tLwPWS3LgbRu6Kr1EVni-qKSikHe3/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/toyorlive.m3u8
