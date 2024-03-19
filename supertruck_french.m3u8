@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710865066/ei/Smb5ZdGxBeGu_9EPr9eb0A8/ip/40.76.119.178/id/MAVs4fcOOCM.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknlz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7mcOsxkbn6XFl8s1IZMnNlQ8MEDFczFqFdwKo3OKfs/vprv/1/playlist_type/DVR/mh/iK/mm/44/mn/sn-vgqsknlz/ms/lva/mv/u/mvi/3/pl/20/dover/11/pacing/0/keepalive/yes/mt/1710841487/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOyMt5DfHEa2Bvsj_p8IhZqmqt2x-zrRkB5lyiZS5AzxAiBZp_L_LQ_Rpg6hBaKmI6Q_F6JG6Nn_k2-TQeSwh4iwXQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAM9eRqmrGSay5m1qDLHK3P9Ct3m2kAehERJtIpVQ_bw8AiEArK6SWG__UHOEq_VuVDLBozeJlZGc9krPGN5JZwJTJ8E%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/supertruck_french.m3u8
