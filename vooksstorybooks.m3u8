@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711933875/ei/U7UJZqKlBNefybgP44OYqAc/ip/52.238.27.66/id/D27iC9Tl7uk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-q4fl6nsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2cCM-MVF065D_3U_apOoQR6FULJDE1WNQ-2cpreF2k/vprv/1/playlist_type/DVR/initcwndbps/4616250/mh/ma/mm/44/mn/sn-q4fl6nsy/ms/lva/mv/m/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711911878/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMAvvQrAAWY8B-aM8o6i57WZ4_oLD1mEqBGO68TnQ_3YAiA3LSQoEIgkrJpfjWenInDOmXSDVIOkdD4hly2kVdR2Bw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAL5Kuk92o2wgHIeIdJCXTDdZ7epZ3Afp53H7aZqUMxKSAiEAktXeINIwLZqJeWHDdJApIdJafOxNZNS0qFHolkvOrYI%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/vooksstorybooks.m3u8
