@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712348178/ei/sgcQZvL5EaGcir4PrtKIwAw/ip/172.183.146.86/id/Fbcvnv9EBec.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqskn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7IVEH8I-AQjCfuXr3czPPOsjPKzMRkknwEiWqa7_MdwMyAwKacd0KTb/vprv/1/playlist_type/DVR/mh/al/mm/44/mn/sn-vgqskn66/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712325083/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgAkVDzc19JnU0lSozOhsWMVjaAH5ZIY1tkoHLW-y58E4CIQCYXm1kX4pBuqKrFk_4szhucn21mZ6hcVCaLxC0sphywQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAKolPwMzR77PXT7uRTqDNewy8tgBtl0Ca-MPSAczJIk5AiBL37Wy3-tEpA9qFzaJGQHez_DICoLTbWjLrCIDklsLUw%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/coolpeachybaby.m3u8

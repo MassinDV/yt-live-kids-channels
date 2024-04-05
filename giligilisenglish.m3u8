@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712348109/ei/bQcQZqmVBO6klu8PvpCEwAQ/ip/172.183.146.86/id/q9tkQJ5jPNM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsknlk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-42nxVda7j5a4PWI3vWhExLnwZXoXOj_r41c2A91pNgNJZts7zkoX9O/vprv/1/playlist_type/DVR/mh/QA/mm/44/mn/sn-vgqsknlk/ms/lva/mv/u/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712325083/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAL585B8OAZm8F_pd7nDcANenEYBrMNqdYP7mIqtnszLFAiAYDvmCjE6ib9A_rYsgxwJkjR1WiTUertZfhNGfXHO1RQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAJVf5T-Nm1zvyBTSvl0zsOcyym3GGkoxQNy6uueKoEbCAiEAi2fmQpdRsS3zc9lb9tOhEKVB2luqLQEDWMOsltN7Wto%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/giligilisenglish.m3u8
