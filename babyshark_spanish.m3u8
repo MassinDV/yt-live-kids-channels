@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712341537/ei/we0PZt3UE6qWsfIPsc-M-A8/ip/4.227.114.110/id/4ivfAxI6z5g.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-a5mekn6z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzJCD3UjUwN2JJfb7A2hcpFZX0nRXcS5oHA5xJCphGR3UHZVnonqOw/vprv/1/playlist_type/DVR/initcwndbps/4466250/mh/Q0/mm/44/mn/sn-a5mekn6z/ms/lva/mv/m/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1712319889/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgBvmAuvTmO-DLs7WJ90Zg2bLy35G7F2nzVUlzC2s7ZcsCICY5TFjQLqnzvEX9AHVnZQQJl612qm5tsLihoTQkPPna/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAKBqcZYTeNnoXTv20wjQCqImXoWRz5qOO2UqKqI9qpQVAiEAxFcyeuTM1Fei_X8n3qEv9iqBsQpRGAq6DpbG4q1f6CI%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyshark_spanish.m3u8

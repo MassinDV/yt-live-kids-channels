@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712341620/ei/FO4PZsOnJo3BsfIPlK-vqAM/ip/4.227.114.110/id/i_4vfbEkhyI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-a5msenle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fypBvxF2gF6ZLohwwgJaqViDz1MBEWkDn5Jvy5rSmFhLQ9YKJVWeZA/vprv/1/playlist_type/DVR/initcwndbps/4947500/mh/OB/mm/44/mn/sn-a5msenle/ms/lva/mv/m/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712319644/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgdiJsvJiDlGf9FocdaNdcuTu1Km3UEo8KhVi3qjCBfsYCIGTlqioQ46J6tWWyN-ahA4AURrYa6qky9gpbs9Qg-Fns/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgSHX4MJnd5K8Xu9l7BAx75leCXQh_kgZeZ3w7t-H5JukCIQCRYwS0_tM1y33zDEvq8cJgtu7V4-DbJvoh7s4kr9Y4JQ%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/beepbeepnurseryrhymes.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712341556/ei/1O0PZo-GDoz3sfIPurmv4A8/ip/4.227.114.110/id/I3EkdVuQkvc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5mekndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_qraMaVUkQzrdR3PUq0U_zUz5O8ZFsupgM0U0_yE8ybsZabbH7Y7JpN/vprv/1/playlist_type/DVR/initcwndbps/4692500/mh/Bm/mm/44/mn/sn-a5mekndz/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1712319644/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKuMGIECWTNYZf1gizjh7uabLl4t_3SEAKbciMaAlTrOAiAaC0I8XeK8Me1xekMiA1GOd4vBESkJQ9qnBBnNnAvxGw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgJ0Jdyte2N2eE1J1tUkUOs8r5s_CoawyGVtx2RIKMG-QCICBMOJaVeKNQih1m-2vBeiYRrx0wXYqC1h8Fg1YdkrKy/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/funnymaxshow.m3u8
