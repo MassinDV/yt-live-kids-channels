@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712538665/ei/ye8SZuzYLdmKlu8Plfue2As/ip/172.183.39.65/id/t6hKPs3EfH8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknzy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwhLJf8nBW2lnpFbTrHYwTkxT44Y3dJ5Z8DaBHY18MW3a3mNy-UxyA/vprv/1/playlist_type/DVR/initcwndbps/297500/mh/ZR/mm/44/mn/sn-vgqsknzy/ms/lva/mv/m/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712516919/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgLQ_RELcy2s1IMAueYfceupO8WMo0rtpdLJ_QxFSY7hUCIQDfcg9fyV6X76lcdrVM9XqPvEZr3C_TbyHsSlxBefj2ig%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgAR6N23oNXW7VT7Pc6tIR7cngc2n_1i04sAgfqudAOosCIDUDFqVNZQBe_9dNprROGTLV8hpSs3W-HK98HJOTC6eL/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/shvetetileshop.m3u8
