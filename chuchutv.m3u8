@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712780066/ei/wp4WZqicGdbTlu8Ps-W1mAo/ip/172.183.148.18/id/xI0MW_DFvkM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrnzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4BlXjKjDDG6UNCyFxLMuNOczWDY7D-dT4clZgQfWZV42cHOiYa1Ew/vprv/1/playlist_type/DVR/initcwndbps/4330000/mh/OK/mm/44/mn/sn-vgqsrnzs/ms/lva/mv/m/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/mt/1712757629/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANwcog8jZUHJsRAj9ua5oZ_g17jNZS3czQjgrBn8ei6IAiEAkT4J2quV77kT4xR7QrgN5wHx8M7A40zCF6Df8mgOgpY%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAL7mMrByCPp2af2wOdaRZKkKGVq7onqxFbbLlizbAY8QAiAV_YlAVJMAdjEzzxuqUlGAERwUgnX6eFF8k0kaK2gY3g%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/chuchutv.m3u8
