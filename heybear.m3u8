@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712830605/ei/LWQXZpWlJteEkucP8P6dwA8/ip/20.109.38.196/id/RZV4oXuTZlA.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qs7nsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5BICTSGffFr9uYkQb9yMaQVhCM51iZF/vprv/1/playlist_type/DVR/mh/4D/mm/44/mn/sn-p5qs7nsr/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1712808224/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPZ20TPCMp1MRmYmxMytEXQjvahES2vdQAW0QeGx71YWAiAxcLAMGCiInqMCH63dHnxAtusxYb6XeXBqksWgvU0HGg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgb7BtGcPcYSpLinu8-V-FCaN3oRm1AE59ED6mq_KVD0cCIFYWFpizfWLFPnlbBWNRF21spIskZPD1PzVt52u59DZ4/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/heybear.m3u8
