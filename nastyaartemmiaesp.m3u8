@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713795769/ei/WR4mZojNErr3sfIPwfO6eA/ip/20.172.6.211/id/LlGi3MUQGEI.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5msenl7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-tQpRLrxB8wYWFjNoZw6YdjcQxNN-VS/vprv/1/playlist_type/DVR/mh/Nc/mm/44/mn/sn-a5msenl7/ms/lva/mv/u/mvi/4/pl/23/dover/11/pacing/0/keepalive/yes/mt/1713773557/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgD9RTUOzu-N_Os5IuEC2Keze651U4GaXzEiIt-gKJFukCIE0k3ydqL0XAFYM31syWMNy1gj59z57SfmkLLqmV70if/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAK8frbUXt6OnWelTigNk67mwyWudj3sjZ7W2l40JT171AiApkfRzsfbFbooQYnkVK3r3DNS3HMq5Ozmkj9MIFtgaLw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/nastyaartemmiaesp.m3u8
