@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713932037/ei/pTIoZuCLII7XybgPm4q6wA8/ip/172.183.132.66/id/RRvXZgeqhHI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqskn6z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2LRHiCuaMwxUJ8P0tk9n-Mqwn9_wrHceSDYzhN6TasFxSXJeW7PGIzT/vprv/1/playlist_type/DVR/initcwndbps/2292500/mh/2b/mm/44/mn/sn-vgqskn6z/ms/lva/mv/m/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713910114/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIV-tJW2FGCSj8IIv45kB6GQYU9UWpaV8eLrDhX_ppAeAiEAuc6xKQZXeCl-xuv1SZmY_2gJKNDKzIxLsTa0v_6G300%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgM02FN5kxDA1Sqwl41tyN5mwMRKf72M1ruqRTb0lbfUACIAlhyoyjRJEO-BSqjkv9gRk73tIyx8WWHyTFZIBfqLii/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/officialmarriedwithchildren.m3u8

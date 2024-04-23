@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713932053/ei/tTIoZrCyA9_xir4PteWz2AE/ip/172.183.132.66/id/a5xRHBc289c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_fkpAtv1UH2Riy4ZRIHrFC4LwAVsdjG6UH0uJCM_ynXYgDbqrkMxMZI/vprv/1/playlist_type/DVR/initcwndbps/2292500/mh/wm/mm/44/mn/sn-vgqsknse/ms/lva/mv/m/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713910114/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJ7jdO6QmK3nagI4g81Sv5Z0U-aBrc4bhTNRNqgIBBwFAiEAuAotP-BeChJGDom3lHkIf7BqlzNeuwzmNjbBHeQzM0U%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgSCmLFzIHuInqQXNMDGNQ7jQ1hNvNI2dczbxg1W8DhpICIHlXBEedUAEFKKmEKHDYu3Yqc68A0ZBLp_1vVkjfakJ8/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/SunriseJungleBeat.m3u8
