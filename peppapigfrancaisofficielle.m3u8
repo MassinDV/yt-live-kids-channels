@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713925113/ei/mRcoZs7XDfSKir4P7caH-AI/ip/20.98.6.134/id/2XFkPhBTXWA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fycc4SkKvEPxRWYIVk7Qt4MDtW3N6YGa/vprv/1/playlist_type/DVR/mh/6-/mm/44/mn/sn-vgqsrnzr/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713901006/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAL1oa65UbmVXyiaxMvCMPMnOUhwffX_dpIEkRf-mr5JoAiBNmQQbBECEKjp-vpW0jh0NlRHCkJWluvZXU8A1R-uFeg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgGGM2qkeKeGfm1c3dmv1Na5QJx4ue6wysHxPIgGqtMRUCIB_w27rk6FQHFsZ4iIhH9HeC39bCTTZHtoFa1w9ya-SV/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/peppapigfrancaisofficielle.m3u8
