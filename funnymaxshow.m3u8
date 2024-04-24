@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713961339/ei/G6UoZvmBJtOgkucP-c2u8AY/ip/20.55.126.74/id/9q7X1TXRlKw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9mfq9SW9vS8MY0N88HJavdBxbd6DwSh/vprv/1/playlist_type/DVR/mh/RS/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/4/pl/23/dover/11/pacing/0/keepalive/yes/mt/1713939174/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgeceQjjf1Fri33ji0q4z9xHrPjJ0jYSgOeCggr4qdD-ICIQCLbkIpChS5m1RtaLUOvDnz33A1Z5dJJ8cuS3JiFcSENA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgOhuKq0rw_hZ9KZX1NBpWUzAqkPicZaPfQhwFOYlzhQMCIB4HzDaM3jxGrEkw1HSavPJJ8ta5Q2stfuSTnyd1YgKJ/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/funnymaxshow.m3u8
