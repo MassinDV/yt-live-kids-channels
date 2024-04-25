@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714033471/ei/374pZuidKfucy_sPtIWymA0/ip/20.102.46.213/id/emnx0fc8g1U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsnrl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2t8c76mMID50glZ65ycWMaBXX2HCS8Zmj8xyKuwSUumKVUfBABSuwMS/vprv/1/playlist_type/DVR/mh/fC/mm/44/mn/sn-p5qlsnrl/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714011446/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgOoSFFJK8Sc34qufIEml8yEh80AQfZ9QPnGYrvDrcV0YCIFRZIqNp5qTA5I20bsh86M93yVtIISUttK-VVXWbrlnq/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhANDGDpiXvUKE7KjJwXf2Gu1TdxPkstX34NMoOXsxZgV1AiB_72yGqXKGfxExDkT0z5mPHGBceiJya3TXCRH2wnnedw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/atoyday.m3u8
