@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714868316/ei/_Hs2ZrOiIq2VkucPnuKNwAo/ip/20.109.60.252/id/SMeJYZ6E5fg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-Lkt9E8yg68_eYDeZHTXVJ-ws8yFLPUs7O641PmscOHKRH4VtEBoexT/vprv/1/playlist_type/DVR/mh/FT/mm/44/mn/sn-vgqsknzr/ms/lva/mv/u/mvi/5/pl/20/dover/11/pacing/0/keepalive/yes/mt/1714846282/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgLlfCGIWd2TA-K_ewUPiSLM6dB-gThAzGq1gyTp-kvK0CIQDhHalLvjXFCPw4Ne7AFO4UB0YLrovmN6wFxyxibhWZcw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKRPiMC20Fg7O3f8v9vTDCrRZFeAaJ16qgzDQFXh9t0kAiEAgvgsWvj61jrtkAd65rxCOabwfYXMZmsGNm4-ZcxxC6M%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/littletreehousenurseryrhymes.m3u8
