@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714828463/ei/T-A1ZsitEe2UsfIP2cChyAM/ip/20.172.28.128/id/wiTNNrrBaCQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwkxfkcJWAdJ2r_8PqvZUpAmcD5WnX2N_JZEwR0yH0fgPdL4Bxmum98t/vprv/1/playlist_type/DVR/mh/6S/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/mt/1714805860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgDiTQDTNp9GK2_r8-DHhSF8InQk6hUPgWyegZ9PeddcYCIQCwxYJ688nGLS1FO6PyU-4aF3BS0QPZGeOHL3BF0hWp_w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgM7j7nvBc0koOoJUF3iA3jqhEWaqkvpAkAJsbHu0Ti4MCIQCvyerFh7TR-DKwY4QiU45-uukEV0P2i8iwc4xJLM1R8Q%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/birderking.m3u8
