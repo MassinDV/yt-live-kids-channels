@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714835698/ei/kvw1ZozkBZeKkucPhrCd0Ag/ip/74.249.21.242/id/NJR9AZVLVAU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f5SVy-2ohYbhEJfRVa2eA_at9Xtw1N3UmMaNoPD13NjZhmG9M_mqNtun/vprv/1/playlist_type/DVR/mh/GP/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714812878/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRAIgSVzvAWzj_Julf0wX3lP_F6Cs3lhiw-W4uhfRfclURgcCIHmOL59_CiyLdtegEpomxT6qUc54WyMEJkNBvJyj_-MB/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAK6toxJKJGcgYgkBmZvQ-kwZVBfiKXuwEyNM7g_cdGqSAiEA7V4yiQd2svGadxC-r5kaaDTx8SQLh5689CueqiVoivM%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/Numberblocks.m3u8
