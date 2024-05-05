@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714914987/ei/SzI3Zr7IBLDGsfIP4P6x4AE/ip/4.227.115.134/id/Gafqy6_Vlm0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6xJViCu2proYWS6J8J9ZQ93QVpzvhPMaCm2RUjtvzIp80iAFyWZJL8I/vprv/1/playlist_type/DVR/mh/Sp/mm/44/mn/sn-iv/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714892502/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKE2cT03YP-3B6c_otxWzZ0IC7LjvtLuUioOMw4Tf6ZUAiEA0ORp9f1qgkg6ZYWv3Wg8HHyMQVEKStgti9b7r3N69ik%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAP_WU56zKWFgGOGmlxQA2YrUICRFUluJlTb1zZwkO1Z3AiEA26BaEAtTZWlxbieQ6hq2YLDhqq_N6AQuU4JAKonSYYE%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/supertoonstv-fr.m3u8
