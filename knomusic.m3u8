@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716635701/ei/1XNRZsS5F7Whlu8Pw7ab8As/ip/20.102.210.220/id/JU8qWkTkLLE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-a5msenll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/-A/mm/44/mn/sn-a5msenll/ms/lva/mv/u/mvi/2/pl/20/dover/11/pacing/0/keepalive/yes/mt/1716613355/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAOmdXLmMQWT47ziU-yUm6Sh4rk7CbLOS2g4lhj7AIR0QAiAJI_3AbizDLJ3TGWMXTNUH_zKu2YjUoXdeyulERA05Ow%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgNoS4JLTYL-n7ycHXCdstSAGsD7eYbdFYow8NJpkl-Y8CIDJsVlECwtEV9E2aJn6QYQfXyQixrEUQY7jPicUYPek3/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/knomusic.m3u8
