@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716758173/ei/PVJTZoiJIs7XsfIPvcCNsAc/ip/52.157.14.169/id/T1N17BjarHk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-a5mlrnls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3ZjlduKpp2AgnOZzGGfRlHxWY6Wwq4yBl50ovA-hU2r485NF5pLf_tWvzo/vprv/1/playlist_type/DVR/mh/Y0/mm/44/mn/sn-a5mlrnls/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1716736298/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALDYCe36mRZaQNv8KmbI2d6ILG_TZGew8qcAKybRV2lNAiEAgdHLhpax5TikqWYuXkfhZTktMYMSGLBqbyvt_2SOta0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgOSle1ges3qRJuqbQUfZgLZWma7C5qbyHB5TL_KnW0zQCIAgWPuGkxtf9Rd9eSong0KZVnzwNn0-30Zs3JdVeDpa4/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/doctormacwheelie.m3u8
