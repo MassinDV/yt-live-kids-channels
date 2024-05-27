@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716840798/ei/_pRUZsimCOSF0_wPqs2w-A0/ip/52.167.113.38/id/kqk-sYqRwlc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qlsnrr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/r7/mm/44/mn/sn-p5qlsnrr/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1716818380/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgSahSuO-rzpv5KD8lXwuVBBdj5kRezUC5q5ZDRSW1EMsCIDDdI3vbq-VSOUWiwkswQ7qF1Ej5SKeFsJgX9CwF2yPQ/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgZcgUqXe49eqNerRF_NAp7XoW9g_Lxj2AQIPmXujvfgcCIC-hfx7SRfaOwU810fzpNX8ICrGZkrXXqZTawfVnbCCe/playlist/index.m3u8)
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/kitoonsinenglish.m3u8
