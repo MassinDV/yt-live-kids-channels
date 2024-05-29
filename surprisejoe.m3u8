@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717039026/ei/UptXZrWaK4apkucP_s-nmAo/ip/20.109.39.245/id/vCaZawqXuJw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7Nl0SYb6aQ_cg48fOm9Cxq2sCmu2fvGgq9JQ8nkSF5JqbG8zmOaMiKqdQs/vprv/1/playlist_type/DVR/mh/8F/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/mt/1717014512/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJTMtv-zJbnODkk2Mu8lK6JYQP_ZPu0UJLTHMY5dJzH1AiEAtTWPEyAeoomxjNosXgTZ92tOmTWeoXG13GLWMdxJ-TE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgL1UST7qYvFNHCyOo2MQ3v7RimYhdNveJ9vgHpPuULPoCIQDX8MO0YQ3MoYJanqYsYC248lgHzJokB69KoMGRPTc93Q%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/surprisejoe.m3u8
