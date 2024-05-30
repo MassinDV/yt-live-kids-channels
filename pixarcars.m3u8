@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717085856/ei/QFJYZsSyMbfysfIPu_iN2Ao/ip/52.225.76.22/id/Co6QMJz_Z_g.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_ALCZWROZeC7FuuX8T9dASjULYNE3pAyt4LUG58YnfvA7RtO8aRYVRg4Rw/vprv/1/playlist_type/DVR/mh/NI/mm/44/mn/sn-iv/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1717063273/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIACo4d1yxS4crh1tb5JQK6Qv_86WARyQEkWUBD0Edd-AiAsCdPSv5T6opeem0p9SISd_6LDdZwL4q-dMVDMWcJvwg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgSOW84_uqD07qbuC5D-L4-gG8FscdQJwlWRqaZ_pETDkCIGKdCNH6DPo4rcvTU4WL3JnI_PEOA9UyJ3swUNrrwNU9/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/pixarcars.m3u8
