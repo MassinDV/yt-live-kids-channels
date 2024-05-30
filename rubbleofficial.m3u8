@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717082275/ei/Q0RYZtryNfO62_gPrpuwyA8/ip/172.183.161.214/id/l_6pNRZi9KY.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsknzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4Eqe0tTWafqfZIFUn4aGE_sLNffl3tMbNp6Qn-tP-IdXycN1ozhPItchzw/vprv/1/playlist_type/DVR/mh/jV/mm/44/mn/sn-vgqsknzz/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1717060024/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJDFT_ru6aq1K6nxrdGvjsHu6LGED-J5x33DYcNj5hT5AiBRT_z_R0dlfWZsPBrjPLm2PsfN1nHh0NaCp9jo7qQQHA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAJUrNDy1ntqPaXIYMm6jsih-ApEr1jQHCvsTLYWXbB7tAiAJCwudQ6mgKtK9CkneeKUtsqFHSfrC_xpIguQ-9cnavA%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/rubbleofficial.m3u8

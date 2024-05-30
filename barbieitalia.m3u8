@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717082347/ei/i0RYZs74NPG1ir4PnrS3qAo/ip/172.183.161.214/id/92KoS-1d-ww.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknze.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fw5U1R2DRmF1R7B0IQxgUdgk7JV9XbM52PAOlbl0QMEcl2aYFpZERbdrKC4/vprv/1/playlist_type/DVR/mh/XG/mm/44/mn/sn-vgqsknze/ms/lva/mv/u/mvi/3/pl/17/dover/11/pacing/0/keepalive/yes/mt/1717060024/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgfY0yS1Fc5T4SjrnPu8cVFk8HrlSoHpJDic2DmJlRsr4CIH0X1Z-_JOWoCunUA1sEfPdaWdiZRv3f75zCZdFSpRCS/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKX72DXlBs-VIDNeJfHOjfItnwIa_mgR6iPUCemZ8gdAAiEArCeeHtNayhw35zIOKt99EufatMNygv_gTu6nzTpkfoY%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/barbieitalia.m3u8
