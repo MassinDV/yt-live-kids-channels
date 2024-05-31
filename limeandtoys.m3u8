@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717186434/ei/IttZZtnHCoT2sfIPgJ-EsAw/ip/52.159.142.192/id/tT1vDUyN2pk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-o097znsd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4vW66g3slUW_O-ru1fhJgqPmIq3yQR9CvX6b4bJoulvASLEmh-Qkxt__YU/vprv/1/playlist_type/DVR/mh/AY/mm/44/mn/sn-o097znsd/ms/lva/mv/u/mvi/1/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717164131/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOBzSbPoLEzqtgmvFAz5ipsUqQYxDSrja2mZZUGVI5rmAiEAhWFj13AIDyUwDrIuFENiA5kaN9cnONq_POU7QnNIDgU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAOZJgEagMzcGZaIfGghp-xqVwLZxopYC75lbF7KhuUXRAiAXpAy2PwkjAtVlMCWv08XMXULstnS2gmfsVaStFYinpQ%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/limeandtoys.m3u8
