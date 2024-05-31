@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717208098/ei/wi9aZq3CFu6HkucP4PmP4AY/ip/20.55.214.169/id/nMvQXeM6t4Y.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr9---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1Lgx7rUBcuWNEep_IIebQ1elTOoHFHugXlKRWLTOeM5JRP1N5OZX_zL1v0/vprv/1/playlist_type/DVR/mh/kC/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/9/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717185414/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswQwIfewIqn1Czu9uqK0jqOW6O7yk8arxZKkWRswVTfurxiwIgPSo29XUC5O4mrqHk20S6FRO9vTGUGHxFxK-0sNZPO0w%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhANU6V3K62gsy4mwvGGiYNNIFNESF1ewND28wjap154X0AiB-3fhrAqNoKrSCcLsPXpKzFqcX1Tw_OtmaGxQWsB6uwA%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/boombuddiesnurseryrhymes.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717208202/ei/KjBaZpH6HZGAkucPkfii-AI/ip/20.55.214.169/id/8d6TU0ak-so.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1Iab1eeIQhHRXS6rgsAQEymteETQAAFwMtPmh5ZsKveoULpYw0fSXTsO8I/vprv/1/playlist_type/DVR/mh/_f/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717186250/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgaZNRa9Dbyfuk1CTnAga-JT3GQbLak6VaE1Wl-osr5h8CIBORhfm8GG6iI1BxpMoxEhATNjJt2Z-j5u0h7-8kAtk9/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgJgB2YkMVOvTo0FbN7bSfBvNB4U6NwjDgijvj4nzlm0UCIH3daVNZYpxjXLUKL6N_vyqMneRAuYWfvBXhaDWy1wZo/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/gabbysdollhouse.m3u8

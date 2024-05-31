@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717208145/ei/8S9aZuXKE-Py0_wPt7eHsAY/ip/20.55.214.169/id/W7CLqt1M0lM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qs7nsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fx5yXdApUABj_yrpv_QYtt8l57KTUOPt0QtFEDybeDE-bY4Lr1EDDH5oS3g/vprv/1/playlist_type/DVR/mh/AH/mm/44/mn/sn-p5qs7nsr/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717186250/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJbv5gdV8llQTMWUhLOgnb-AyXpKY_ju36PDd7fAYs9AAiBips8OGpctNVXBy7sUE2ABh5GrPXQkSI4a251j7xf4HA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAInM4NCR1XWd-RbDznJd8BzqSrjO6nWfBs_rGZOILIhqAiBYpTZ-11-Ec_X48NHxu2wfHMwSKstam191x_KAuLdfeQ%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/loconutscartoonvideos.m3u8
