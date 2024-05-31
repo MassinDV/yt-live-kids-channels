@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717201272/ei/GBVaZufyA63d2_gPzY-L8AU/ip/172.183.52.206/id/WHRRS_gDmDQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnez.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzU5x-1IY6dZwMryIIV45HnMkqZj1HXd6eo0ffvWVqJ2N6bkq5hKBaigBQY/vprv/1/playlist_type/DVR/hcs/sd/mh/I_/mm/44/mn/sn-vgqsrnez/ms/lva/mv/u/mvi/3/pl/19/rmhost/rr1---sn-vgqsrnez.googlevideo.com/smhost/rr4---sn-vgqsrnsy.googlevideo.com/dover/11/pacing/0/keepalive/yes/mt/1717179005/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhANmaDWvH6B4LRwpLUrWh9gTmwwO-wj_JIOgROYvYgAZFAiB0giA2aA7f-cvhq_rBST_LpKG3Lf_mlublqZaR64JhvA%3D%3D/lsparams/hls_chunk_host,hcs,mh,mm,mn,ms,mv,mvi,pl,rmhost,smhost/lsig/AHlkHjAwRgIhAIAsv-cTrccHmREKW7aYZT8G-8MkMM8yK4uAC8BQRsjuAiEAjXCcOrXs_vn-5tC-R2c8uZQOFTuRLa_pWu4ehPxdLyM%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/cocomelon.m3u8
