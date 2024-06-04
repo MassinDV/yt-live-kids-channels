@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717553717/ei/1XVfZuWcEZ-U2_gPxKOewAQ/ip/172.183.106.196/id/kziUjM6WfEs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsknzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8iUuPiU7ORBmqCjwmBC8apZorY_yUFd8X_eO1xS2UXdMpAPPM-RvP5Cy-o/vprv/1/playlist_type/DVR/mh/qM/mm/44/mn/sn-vgqsknzs/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1717531426/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgeH4EaGSfK902O2JtpUVBTEvui_0Sh9s0956U2wDOxsECIDpXAESz_XYrDDVKmjTRS8vE3fmFR0a596Y7FyjsFD0k/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAO29UcnK6ws6uy4Ontjxt5MdwJEutt2iJS0XVfpjUokNAiEA3WLOtdXPSbveEsc-UXR_ocdgj9k7ZojVS8Vz0zrpGsg%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/mommywolf.m3u8
