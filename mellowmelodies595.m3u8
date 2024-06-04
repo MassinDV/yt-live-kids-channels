@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717560938/ei/CpJfZrmlH8PKy_sPo5nl2QU/ip/20.55.15.20/id/8i5lqj6Lwys.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qddn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5yo8ifADx24atuHRXkPr1YUa7pDxlxgs9kgvHFCdoncLkPIbgNNO0WVq-s/vprv/1/playlist_type/DVR/initcwndbps/282500/mh/0_/mm/44/mn/sn-p5qddn7r/ms/lva/mv/m/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1717538904/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALjuBULJaPs7pvz4BxiYw1l1xGf_3edLVKu12ZGNqL1CAiB0mDZIiLp42EUPSjhPGtGXzJ68RuhC6NRhSRFtu4fP0Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAKnRNoSDZM_afuWk1Z9a3PSyobHcf60hM-qZKr89q2GjAiEAyPYJuIqoFOkbohFOs-xsfYrSIYuVmRiuTneKqpdglGE%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/mellowmelodies595.m3u8
