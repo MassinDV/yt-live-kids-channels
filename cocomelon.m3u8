@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719062204/ei/XHp2ZoegCZyW2_gP99alsAg/ip/172.183.89.143/id/1SE21aTUTEw.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7208saHYhL0EceCL6JqaQRLDFFCHZxre-CULXPaKKMOqr-zA2dSLFJbq-Q/vprv/1/playlist_type/DVR/initcwndbps/771250/mh/U8/mm/44/mn/sn-vgqsrn66/ms/lva/mv/m/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719040351/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgY6MkWguh6ti553sBJlCT5wmS8q28IcSHF0Nj3DHL3ZMCIEhPHWUC5YWR1aCvKRgZee_S3f9GfWdnexJEvynBM7ih/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgTyyAFHwivafyQPc9SV1DlrnlpdDfoeMCVcGn5thaLIsCIGRSqh78IN-SrpLeSTFQ_sqDIJUQOGAXenyUSkHkLl5k/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/cocomelon.m3u8
