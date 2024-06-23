@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719148632/ei/-Mt3ZqiBIvqDkucPwL-R0A0/ip/20.109.38.34/id/CXtAtL89uwE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qddn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyJZUyZn9gC80ClMV4hxatnxSELrjJ0jP8bDblHWUcAiTnG5wiK0oZy-7wA/vprv/1/playlist_type/DVR/mh/e4/mm/44/mn/sn-p5qddn7d/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1719126683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPTFfEo4WFMGa8KbZceogOeH_KWPs2FnK5hFx8CwyBs3AiBzCKprESGJ2Ab2TbPhUOZKGKn5CxzUs7l6IZN8dSDNjA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAKjiqNg6P332GuSAefvlPJqV7q0tleLvfPrdgfO9h-TTAiEA7RVik5k6c4-fcbaZOHw9EdaliNmeO0yW_SBW6znv8eM%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/pyjamasquesofficielle.m3u8
