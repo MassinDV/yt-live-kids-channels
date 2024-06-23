@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719198846/ei/HpB4ZteLI_iGkucP9vKRmAk/ip/20.109.39.148/id/b-vdutruQ4c.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3ec9859lDia7Z7A-PjznTBMBRvzcYKroo5PT7yUXZ1vd4pbYYN_7MFkOAI/vprv/1/playlist_type/DVR/mh/-b/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1719175925/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgF0j7Oh2gdCdAohrT8Pk5MYCoIV1zi21v-R052yK2sZwCIDwrBkqb0nokj3Z3a1iwm5-XlZJAibNgUNL1dboULNS_/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAP69B3L0RaNpoUJCA4D2rPICsEpFTc4bCKHoNElAtk_nAiAtZnvnjHvC8kR9Y3ejdA0acmgs8hwDRC012RbR8jreVg%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyaliveofficial.m3u8
