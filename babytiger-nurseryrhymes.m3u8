@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720614139/ei/myiOZpS4IJCy2_gP_LuGkA4/ip/172.183.77.244/id/ukziDlLs0-c.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnlk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAblQHTnASTLUEtTb2-oHvn3LxOz8KqbEE4OSRw1F1Am8bhZha68ayTzzRF4/vprv/1/playlist_type/DVR/initcwndbps/1155000/mh/BH/mm/44/mn/sn-vgqsrnlk/ms/lva/mv/m/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720592207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgXtWWckZtoKELokzWImld4eYFZjPs6WJxVjuIJWaxLdgCIA1WQ0a4eAf0lM0zJ7d5EGLMo9lHwP6z_TP0znlvh51U/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAObgzJypldBJ90E9Q59jiZ07HNMgLtnKJFkbPoaDEw_6AiBLRLhbnkuCaq0J1eamWgkjRwlLB5DOwP7IkwhttxoR4g%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babytiger-nurseryrhymes.m3u8
