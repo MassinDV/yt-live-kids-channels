@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720722605/ei/TdCPZubdKe6X2_gPiuWikAE/ip/172.183.121.19/id/v5TfYRBkWN8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrnzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAQV_fJWm4qmWtgO-rC4QeV_RJIfHpIHKr96vJj3jPmwagwiy0XAf0fQzIpc/vprv/1/playlist_type/DVR/mh/2m/mm/44/mn/sn-vgqsrnzk/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1720700214/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJiD4a40MR_sOQ-Gd0Y0hcp61dR1TNOz4Ib8Ompgq5p9AiAtJGm4DW3gtyQrpyETrbmjOxalyjFpBYWPqQTCuda2EA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgSMMd6CWi28PFCjLo2OQV19O0TYwuOvCc8NKFSG-kVdcCIF97fmVgk0EKwmboNnVczZegduD9_1Hg8uNIr6yVCh4j/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/hooplahalloween405.m3u8
