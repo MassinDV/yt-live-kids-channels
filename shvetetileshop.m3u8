@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721178820/ei/ZMaWZuK4A6Kglu8P15utiA4/ip/172.183.132.71/id/-9yzylZ8bVg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/NO7bAYH8eASbQtSLmeimm7cJ_386FCTXSPVIFYq12NQgT0RnLeiA1u4DY1D7ANs/vprv/1/playlist_type/LIVE/mh/Y1/mm/44/mn/sn-vgqsrnz7/ms/lva/mv/u/mvi/3/pl/17/dover/11/pacing/0/keepalive/yes/mt/1721156837/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRAIgAalpGnEQ_hlaP3YjnwPpIEdb1iLY2PneVEYl08FXN3oCIF5NfdMhCYODcGVEiJ4isCVMBhSEBCc7rdCnZ4_L0T-K/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgYNwfV3vL2C1FvNoTlhcLWeMEMOzJkvLn6aavi7bg3JQCIA2coz_TO7IDPmZ3vFzZ5SRusvS4f0nbFPe7riz-nwAk/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/shvetetileshop.m3u8
