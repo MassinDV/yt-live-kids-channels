@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723158911/ei/H_20ZpacNrO3kucPtcejgAU/ip/172.206.192.26/id/qxRH2Rp5vzE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/Mv1m9lundM47a8lyDXDHGDVFIeEbBHIUbpewJl3MiPqC1yhZrU2jTfM/vprv/1/playlist_type/DVR/mh/YA/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1723136793/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRAIgCBVquqRQqk1V4uE6nQr1EFl5J26Xak1q8Fl_KLEaiq0CIDxSuUPs-Qqd56pcTOwN_uZZI5agUP0ZrF086vsD4uTh/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgQVP34qZ_XfmUvpRUy3MwZgr5zHUOW5U4aBkEnpXtfskCIQDPg49_e_y5k8bwAL0K2hXroHptk15Vl896l4HgPz_v6A%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/littlebabybum.m3u8
