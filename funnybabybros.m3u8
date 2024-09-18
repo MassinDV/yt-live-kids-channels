@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1726687442/ei/ctTqZsfxH_y0kucPzYq_2Ak/ip/20.84.127.103/id/C1CYUIFgj9I.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsnrr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/54MbxUpEww6fz42oRXL1x2JrYPmckLDAcj5Vfx5PHx4n6xc8R5niuO4/vprv/1/playlist_type/DVR/initcwndbps/1006250/mh/oc/mm/44/mn/sn-p5qlsnrr/ms/lva/mv/m/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/mt/1726665177/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRgIhALVBWZri2yaGtnuqWgq9EL8pAs-8fo8XmpSbPw1Afze4AiEAzjIQHHdV3x-xG7_0jN2WZiejyV8cAS7rObAHUE9sPdc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABPmVW0wRgIhAMmq6BSYrjmHKCP_4QR2hmtSRNw5ENRvnHMFvnonmXc2AiEArq-GiFZ448BnCiZ1KcRIP7hfdBhfsy3DMOPhvVxnUIc%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/funnybabybros.m3u8
