@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737231349/ei/lbeLZ6PEHcvSlu8PoteA8Qg/ip/20.25.204.43/id/cselF2FGZ7w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsknll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-M2sHSlN3s7o2WzP3fk1wFjsnwHTXT5yoWdgaWMSSDUybls6iBek9OaPOVAmb3IpxG5g2iDhsA_/spc/9kzgDb3nyGh_st81ASS0ALkyF9wCTcMhLfFSVAFk9jrAtd5JFULQgcbO1NJmxZU/vprv/1/playlist_type/DVR/met/1737209750,/mh/3F/mm/44/mn/sn-vgqsknll/ms/lva/mv/u/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737208411/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgCgj51SQBBn1Nyj3e6o_steWfEz4wwBA-UhNeZKKvC9oCIGNwkS__mBSxUHnG4lNz4YmF2MwNaS-gulH1y-xWOtBl/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRAIgWFnk-JRQZ06PHqb-5WSTFOr4_Wxho-82Qc2Z8Ues7IICICzP3RdZGYHe3duOXlSY_O2d8PX2V_EB8miaZ5ZFfRbn/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/funnymaxshow.m3u8
