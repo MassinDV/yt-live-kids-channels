@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737494434/ei/QbuPZ6DSOKaRsfIPrNeWiA4/ip/52.155.62.15/id/Z1947CUwE5U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-a5meknzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-PCbOIILCvaAuzwtQYv2kyiZZ8-AifgGk0E5qgErveG94PYkRDjSeCh9D9eJsFaV_2ohoFpmKQa/spc/9kzgDdHbgsANoKeD4Zol63pVEyggS414DrO8yi8WWrEXVbXLP62O9B9QBwOuBUQ/vprv/1/playlist_type/DVR/met/1737472835,/mh/x1/mm/44/mn/sn-a5meknzk/ms/lva/mv/u/mvi/3/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737471603/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgEP02LBHj1sqlxe-KHtu7LHVailrkJTYD-OCsm33dX3sCIQDwvIxZq_tjd5SWkfq7Vp4DXfO_4Aoi9WeSNDt0dXpwiA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRgIhANAB1IOcUNIzh8RfF-ay3Yx9CBRKNUGhCEbqNkabELbBAiEAzNULUQv9rxE4AOpJlbfpHHQcfPw2PxiAHGK_c6nysdc%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/englishforkidstv.m3u8
