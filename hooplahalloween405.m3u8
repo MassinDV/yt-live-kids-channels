@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1743992349/ei/veHyZ8SXHcSCkucP9qKLgQY/ip/74.249.20.131/id/ymOxj3qfmFs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AccgBcO4PtWHkJhgBmwTOBSuDCyjKc3ATVvSTj5FAX1l-iBL3xpcxNmoRMMiO1c_47VB3XnKFVhx1tkm/spc/_S3wKs7I8JzOY8QalQHHOBBTdAeUBYbWdp-HcnWCXGs9RFS6BhsEs4ELkY8nWQNfgNo/vprv/1/playlist_type/DVR/met/1743970750,/mh/B9/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/4/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51435733/mt/1743970349/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOl65vR8ESaFvgaEabztC8xxwHwfI_Vix0DcOIANwqEIAiEA_ObZKe9-fbSfobsJKjMOduONJEzqyepKAxG54_0zH3E%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgPsse8RKqTV12pvjKYtb9xfVWBO2LkzZ_sbfzvhme6V8CIEIEZh8_G7EcK2MEs3pjJCK8GZk01hgrf1ZvKHa7Xrn1/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/hooplahalloween405.m3u8
