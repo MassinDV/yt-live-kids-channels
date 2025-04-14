@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1744621602/ei/wnv8Z6WCIo21ir4Pt5LSuAI/ip/20.25.204.35/id/1f8lo02e2SI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-vgqsknzl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AccgBcMrHNrMLlHpV6nlmyxbHmHH5w_tWco-Tc9PzEo0OcrSZaLUwsmYA9B39HFe9Jd8JdjLmtSGid2j/spc/_S3wKsyf1t9fbAKtMxtFrF-Fbura0nS9P8MF2oXMSYMo9ScRUWuuLsod-yAglZRe6sY/vprv/1/playlist_type/DVR/met/1744600003,/mh/Xv/mm/44/mn/sn-vgqsknzl/ms/lva/mv/u/mvi/2/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51435733/mt/1744599019/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMKkczwEoo-cf2HYlIb7POIVdUVWYBXRmMj4jtm_LFzBAiEAgeWoPGeyoKL-sSVGtv6UUaxo0tDW5c36E5rLomALXZc%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgdWRqv6LTrXg9L078W1MLlzqFcx37P984duxprQFVWFECIQCVN9R4zsA6POAlNJdBzlLQvWosM7PW0-AcFmiK40olgw%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/SunriseJungleBeat.m3u8
