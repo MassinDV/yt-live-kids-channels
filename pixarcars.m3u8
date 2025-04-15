@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1744745472/ei/n1_-Z-jAN_iYsfIP0I6-gQo/ip/52.155.61.142/id/yPLwgB8YaSk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-o097znzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AccgBcNCr07wigF6rB2u83nMAiV2dc7hZ4u18Z7uJkR8Rnz6arINPLONjxXUBM0xldf-azuRSgoGC2aj/spc/_S3wKsDD19kaudLqq48KOSkLSVgEzz4eLJGGe6DYrAb9L4p8e5IL4K4ehZ3C2MJuuDg/vprv/1/playlist_type/DVR/met/1744723874,/mh/4l/mm/44/mn/sn-o097znzk/ms/lva/mv/u/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1744722727/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOU8bpf5aIJKPhSmWigZJ6x4MmiXGC1raF9muz3dvj6jAiA-CY9TUyc4Hk_qVJb0hf1EuZkcxeQCGUfVtWcnhU7YpA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAJIu_Cx6nY4sgnKhvD20zgGMGlj67BpBcMzHJ0Kj_mGtAiEAiMiRKE0iWQa4Y8hZzGDK6N5KC_zdgpO2ps3tpYMZDao%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/pixarcars.m3u8
