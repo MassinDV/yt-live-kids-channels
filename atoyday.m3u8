@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746818962/ei/MgMeaNL2MuCglu8Pzf2k4A4/ip/172.183.109.176/id/WenVKiWU8Uc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-vgqsknes.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AecWEAaL8tr7E5Sbq-Ep6pulcoNj9wA7_ab0FeqWHtdR84CQahHKD_4hvDOEg4MGrIbu9U7F-n9MRXcY/spc/wk1kZoqhRK_M6xP8p6n-6qXYz8_MxGafMxXqFFHnsOJ-QgeIIC4czxDE6onr6FQia30/vprv/1/playlist_type/DVR/initcwndbps/3571250/met/1746797364,/mh/HG/mm/44/mn/sn-vgqsknes/ms/lva/mv/m/mvi/1/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746796845/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPPcB6N7ZM86YhpTWVfmr382_wPDGKTscNi_6Ue-nujoAiEApNA9uzl3mKIQq8wnr7WwzjdeDX9Szc9LVtWmB8Mqqlk%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgGiUKAa_ELCGESgU1WomooXMXNA8ZSt2og2t7sE8j44QCIQDViPD12xpklYSe98QIxnf6HzAelUTBbnJus4mDESZ8eQ%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/atoyday.m3u8

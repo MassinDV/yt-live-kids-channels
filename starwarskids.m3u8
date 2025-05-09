@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746819087/ei/rwMeaKzYMcSx2_gPkJDIuAI/ip/172.183.109.176/id/Hh8yuHH60QU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-vgqsknll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAa4B-JQ4qA_X9_-560hSvgaE6iqGQSXo0dsr7sf4etuE822n-9WgpnPGlK_68P52nSW61SLWp--/spc/wk1kZs-7U7STvHIk6Aj3NbPjP57BGNbcnLHvKwT_x9Mjjs2ZM6ROYz23vTlI0FfEtAU/vprv/1/playlist_type/DVR/initcwndbps/3301250/met/1746797488,/mh/v-/mm/44/mn/sn-vgqsknll/ms/lva/mv/m/mvi/1/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746797080/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOlTgmzYr_d9BjQBx_fAhzwCS0OITBV4e9ECPJFbxEnZAiBui-MOB73FEMEHekYFOfdVMYPXto1LA3aRZxt_ebWQTw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAN1igRfndspGXtaqccmMB9wlu816HhNXbyTIGVP9EU0-AiEAhI6lYBJ74rnVQqdW5bhX54LM3sda9-dt0zQAku8M58I%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/starwarskids.m3u8
