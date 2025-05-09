@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746843652/ei/pGMeaN-eEMScsfIP-fCa8QY/ip/52.234.42.219/id/Xos9aI7X4O8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-o097znss.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAapLQjpL5R5rxT-Jyf3NU32DKWXOwUxLW2aZuO1ihjBIsiAVqkOX0uSe4lLce4HRMI8ASY4VtXs/spc/wk1kZlstrD0W4F5tV5bjnyY_Dqi2Yb1IC9Rf7URpKKzB-WeYDLRXSBZLE_HHSEq9CMQ/vprv/1/playlist_type/DVR/initcwndbps/6030000/met/1746822053,/mh/nx/mm/44/mn/sn-o097znss/ms/lva/mv/m/mvi/5/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746821560/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgePGw6tbTAn3HnFobkk1H4Uy-Xykfb9emdfBziRCj4q4CIQCx773qRKo9a1Q1QphlCsoYiDdB4DaAtRQKEDeSmzx7Sw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgbdLxOGL82wmgUix44UkYMNvMbl5jJOhfgJFj2o3jZ5kCIQCXy2MOn_BWZ3lgD71rHxbABK_Rfs_yLCtQyxuPf14GbA%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/boombuddiesnurseryrhymes.m3u8

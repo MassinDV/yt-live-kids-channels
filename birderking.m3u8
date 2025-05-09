@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746843737/ei/-WMeaKyZCYemzN0PtKO14AY/ip/52.234.42.219/id/X7HwTHbkcaM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-o097znzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAaZdsvxtPjqDs5196ocAx43L8U8DOM4XUE-b7qm83C68qVvxUkTqxmcRZerWUyGh1uaNEx0F8Nb/spc/wk1kZu_7mPqwdSSBXJVg3ylvSXjK8iJCfmWa_k0dp8CmI7LD2b6eJ27tB9JzcnzJKXY/vprv/1/playlist_type/DVR/initcwndbps/4950000/met/1746822138,/mh/x9/mm/44/mn/sn-o097znzr/ms/lva/mv/m/mvi/4/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746821799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgL-2uP7Jb_It73mfANttIiH4_iFdlkJvFIvazQHUkq8sCIHyxgNK6QdXJXPGyxvXhr6JjtqxNe0VklJDqFO4JREjs/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIhAPo_xvF5BsDh_HeYUgRk-zwzPJOaZEvD33GEtmcxHP77AiAZzjAq12bqIqGNr9Zg-ynC-HeX9TjW8pcKND2x_h7fbg%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/birderking.m3u8

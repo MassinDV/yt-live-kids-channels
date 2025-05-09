@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746843706/ei/2mMeaMCNM8fbsfIP8vr10AI/ip/52.234.42.219/id/OtUt_mpme8E.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n4v7snll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAbHceeA57ApVifNT8GsAfeYfyTlqWwfIf8lxE5BEDTQPLQCcfpFZAIPtprjP9EFiY-6c2pxnmAT/spc/wk1kZv61N-MAIIYIEJWSm1EaqRa-7qo39en-r7plmIqzw9M-Ebcfkha1WOHALpoMEqg/vprv/1/playlist_type/DVR/initcwndbps/6030000/met/1746822108,/mh/26/mm/44/mn/sn-n4v7snll/ms/lva/mv/m/mvi/1/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746821560/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgd36h5N4zoRaXp4GnxFjNuy4jD8ClsMWEnTlv-M4jk6oCIQDPCqW0-f3bk5ckEQpPTtepIN26UZxaZlm4x1pwBCzhxg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAJardyasPaF3kG5O8l_yhaX1gi2aF0UAReViImzq9rf5AiEA2PgBryzBl0m_0xa_5_Es_F5zc36X7Y9Mh4Ox9ipFhyw%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/limeandtoys.m3u8

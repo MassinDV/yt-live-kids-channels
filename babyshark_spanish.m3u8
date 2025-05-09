@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746843756/ei/DGQeaMfDAoDzsfIPtMeUgAU/ip/52.234.42.219/id/2L3ytXhAQLs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-o097znsz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAYcDYYU_mq_Yy7kl55nP1Te7kQZLHEMYvTA8kVjrvfGRzGsyJ0vrwsxzyfjsTTItxgj3eFrPEXz/spc/wk1kZiHYFdrycCuA56qPogUyIMcBJQM0BKkqc9Db3HeyWu5OInp-jRvv-lNV8OmVruc/vprv/1/playlist_type/DVR/initcwndbps/4950000/met/1746822157,/mh/Yl/mm/44/mn/sn-o097znsz/ms/lva/mv/m/mvi/5/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746821799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJ-MDpTCEMtR7Xl3g-WL0L72WwYx9y3RJ-qvcRKqvK5fAiEA-FrWb7tdz77AN_CB-Ekyjdx17V4bpa8RN4otinw9EVw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAL54TUbT3Gn07wiIoWxtzKbJw4x8d8fTYCqnnwnoePxCAiEA10_G4YP01FigI77vezdOFVreG4eE9XDItEyWFyvEhQE%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyshark_spanish.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746843777/ei/IWQeaMbILq6psfIP08_H6QI/ip/52.234.42.219/id/zoPoLZgmUro.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n4v7sney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAY1N8iJ2ByvTOkkAU6xYpDQQgr-RDcF_IqygJyVpwqpN1sltfXWShlxEBzVSujX8L6PTn8PcIH3/spc/wk1kZv-J3oE4Ys-SxU875g5HXRxFhPD56Z5KdQTGGJTVolzk59cCwqUTJh6ca1b-Qx8/vprv/1/playlist_type/DVR/initcwndbps/2616250/met/1746822179,/mh/tM/mm/44/mn/sn-n4v7sney/ms/lva/mv/m/mvi/1/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51466698/mt/1746821799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgIB4JmmLQ9H1mRMVW9ppEX3LgIASG0deplLOBLjcNRGMCIFZKtY6u8s_2KtWignNwde62VxEoknngytMaMykaXR3J/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIhAObP2R-A1WKJJ0CxONqnBEzKGyCs_ti29Uy0bP0jvPqeAiBRwsORrMwMTl_RJasdpiHzJw1JujcpfNjbkMyONGiuVA%3D%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/babytiger-nurseryrhymes.m3u8

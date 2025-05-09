@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746843718/ei/5mMeaMvjMoD3sfIPgfPNsAc/ip/52.234.42.219/id/wvAnMtfDykY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-o097znsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAaIkDTqFNuLfnnJKI_dtHbut_IS4RFlCD0oSxXZKa6SZz-22ujBgRc2zXFETM4zloL2vhYLzARe/spc/wk1kZuTKUq6eIMoW67rv4UrlhtVNmEEp_c_vlrg2jq3Ev_W3KVwBcV27HOULn2utqq4/vprv/1/playlist_type/DVR/initcwndbps/4950000/met/1746822120,/mh/85/mm/44/mn/sn-o097znsk/ms/lva/mv/m/mvi/1/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746821799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALL12exrorpkj4YtP5oBVWaPBrkUimh6Zc0PJIhn9f2VAiANS0yxS5xOFyisJX4Y2eoMytsGr85QSHQresVbHtuPbg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAL_U8FQDfYvUcgdNOHA8VY_3HvOfXiNQ9yWI8LWe7SxLAiEA14FOA48jw1u0z6KRhTvt_S13RU9p-UKHUX-OajaD-m4%3D/playlist/index.m3u8
+
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/loconutscartoonvideos.m3u8
