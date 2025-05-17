@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1747528173/ei/jdUoaLWLE_yUir4P-PeA8QE/ip/52.240.209.229/id/3wepLSZ0_30.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqskn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAblDNfLTtuJTbGGirLT5yFI_CeXRAm6favtEf_vou8J8Gci1TyeHiPeZ8fhDThqMEzrSpojwJyK/spc/wk1kZjiTQm_AXdqkN60z2fg9xf5gnP4WcUFDfe1-qEDsiXWJre-rFuAm4Qp0lhaqqrE/vprv/1/playlist_type/DVR/initcwndbps/2591250/met/1747506574,/mh/3F/mm/44/mn/sn-vgqskn66/ms/lva/mv/m/mvi/5/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51466643,51476175/mt/1747506272/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgU5a2NnaAEBvPhmXnb3t7zoODoBe-s8qMqRPYjpuZdH8CIQDmair5E90wxwvGjEvmQJB5vxedyn9DbqaCDSLTlzjQHQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgRxma7CDZAH2SW7Hc4RQMo1yXi_0zqog-V8vlQrUup44CIQCW0e701Ms3b3LvLLU3y6uXbQuJLldlS4kU7Lj0vA3KcA%3D%3D/playlist/index.m3u8
 https://raw.githubusercontent.com/MassinDV/videos/main/kids/apprendreensamusant-looloo2227.m3u8
